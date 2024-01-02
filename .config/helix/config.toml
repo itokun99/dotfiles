@@ -1,0 +1,4 @@
+theme = "dracula_at_night"
+
+[editor]
+auto-format = true
