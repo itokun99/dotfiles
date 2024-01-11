@@ -114,6 +114,13 @@ local plugins = {
     end,
     dependencies = { "ray-x/guihua.lua" },
   },
+  -- {
+  --   "neoclide/coc.nvim",
+  --   lazy = false,
+  --   opts = {
+  --     branch = "release",
+  --   },
+  -- },
   -- To make a plugin not be loaded
   -- {
   --   "NvChad/nvim-colorizer.lua",
