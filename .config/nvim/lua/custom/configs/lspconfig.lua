@@ -59,7 +59,7 @@ local on_attach_setup = function(client, bufnr, lsp)
 end
 
 local function get_typescript_server_path(root_dir)
-  local global_ts = "/home/[yourusernamehere]/.npm/lib/node_modules/typescript/lib"
+  local global_ts = "/home/aleph/.npm/lib/node_modules/typescript/lib"
   -- Alternative location if installed as root:
   -- local global_ts = '/usr/local/lib/node_modules/typescript/lib'
   local found_ts = ""
