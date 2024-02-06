@@ -2,3 +2,29 @@ theme = "dracula_at_night"
 
 [editor]
 auto-format = true
+mouse = true
+bufferline = "multiple"
+# rulers = [120]
+true-color = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.indent-guides]
+character = "|"
+render = false
+
+[editor.statusline]
+left = ["mode", "spinner"]
+center = ["file-name"]
+right = ["diagnostics", "selections", "position", "file-encoding", "file-line-ending", "file-type"]
+separator = "│"
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
+
+[editor.lsp]
+auto-signature-help = false
+display-messages = true

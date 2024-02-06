@@ -1,9 +1,10 @@
 ## Android
-set --export ANDROID_HOME $HOME/Android/Sdk
+set -gx --export ANDROID_HOME $HOME/Library/Android/Sdk
 set -gx PATH $ANDROID_HOME/emulator $PATH;
 set -gx PATH $ANDROID_HOME/tools $PATH;
 set -gx PATH $ANDROID_HOME/tools/bin $PATH;
 set -gx PATH $ANDROID_HOME/platform-tools $PATH;
+set -gx PATH /Library/PostgreSQL/15/bin $PATH;
 
 # Golang developers might need this one 
 set -xg GOPATH $HOME/gocode
@@ -30,6 +31,7 @@ set -xg MOKITA_APK_DIR $MOKITA_DIR/android/app/build/outputs/apk
 alias mokita_upload_appdebug="cd $MOKITA_APK_DIR/debug && cp app-debug.apk app-debug-dev-upgrade.apk && gdrive files upload app-debug-dev-upgrade.apk --parent=1bQO7OOXauaS9Rc7HTQFLU7AlJu9c_cOV"
 alias mokita_appdebug="cd $MOKITA_DIR && yarn build-debug && mokita_upload_appdebug && cd $MOKITA_DIR"
 
+set -xg OPENAI_API_KEY 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
 
 
 if status is-interactive
