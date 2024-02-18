@@ -37,3 +37,10 @@ set -xg OPENAI_API_KEY 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
 if status is-interactive
     # Commands to run in interactive sessions can go here
 end
+
+# pnpm
+set -gx PNPM_HOME "/Users/aleph/Library/pnpm"
+if not string match -q -- $PNPM_HOME $PATH
+  set -gx PATH "$PNPM_HOME" $PATH
+end
+# pnpm end
