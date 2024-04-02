@@ -12,7 +12,7 @@ history = 100000
 multiplier = 3
 
 [font]
-size = 12
+size = 14
 # use_thin_strokes = true
 
 [font.normal]
@@ -72,63 +72,3 @@ unfocused_hollow = true
 [shell]
 program = "/usr/local/bin/fish"
 args = [ "--login" ]
-
-# [mouse.url]
-# modifiers = "Command"
-#
-#   [mouse.url.launcher]
-#   program = "open"
-
-# [[key_bindings]]
-# key = "Key0"
-# mods = "Alt"
-# chars = "º"
-#
-# [[key_bindings]]
-# key = "Key1"
-# mods = "Alt"
-# chars = "¡"
-#
-# [[key_bindings]]
-# key = "Key2"
-# mods = "Alt"
-# chars = "€"
-#
-# [[key_bindings]]
-# key = "Key3"
-# mods = "Alt"
-# chars = "#"
-#
-# [[key_bindings]]
-# key = "Key4"
-# mods = "Alt"
-# chars = "¢"
-#
-# [[key_bindings]]
-# key = "Key5"
-# mods = "Alt"
-# chars = "∞"
-#
-# [[key_bindings]]
-# key = "Key6"
-# mods = "Alt"
-# chars = "§"
-#
-# [[key_bindings]]
-# key = "Key7"
-# mods = "Alt"
-# chars = "¶"
-#
-# [[key_bindings]]
-# key = "Key8"
-# mods = "Alt"
-# chars = "•"
-#
-# [[key_bindings]]
-# key = "Key9"
-# mods = "Alt"
-# chars = "ª"
-
-# import = [
-#     "~/.config/alacritty/themes/themes/dracula.toml"
-# ]

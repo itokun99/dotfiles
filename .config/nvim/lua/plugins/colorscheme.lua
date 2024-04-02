@@ -3,12 +3,8 @@ return {
   {
     "Mofiqul/dracula.nvim",
     opts = {
-      transparent_bg = true,
+      transparent_bg = false,
       italic_comment = true,
-      styles = {
-        sidebars = "transparent",
-        floats = "transparent",
-      },
     },
   },
 
