@@ -1,10 +1,10 @@
 ## Android
 set -gx --export ANDROID_HOME $HOME/Library/Android/Sdk
-set -gx PATH $ANDROID_HOME/emulator $PATH;
-set -gx PATH $ANDROID_HOME/tools $PATH;
-set -gx PATH $ANDROID_HOME/tools/bin $PATH;
-set -gx PATH $ANDROID_HOME/platform-tools $PATH;
-set -gx PATH /Library/PostgreSQL/15/bin $PATH;
+set -gx PATH $ANDROID_HOME/emulator $PATH
+set -gx PATH $ANDROID_HOME/tools $PATH
+set -gx PATH $ANDROID_HOME/tools/bin $PATH
+set -gx PATH $ANDROID_HOME/platform-tools $PATH
+set -gx PATH /Library/PostgreSQL/15/bin $PATH
 
 # Golang developers might need this one 
 set -xg GOPATH $HOME/gocode
@@ -39,8 +39,16 @@ if status is-interactive
 end
 
 # pnpm
-set -gx PNPM_HOME "/Users/aleph/Library/pnpm"
+set -gx PNPM_HOME /Users/aleph/Library/pnpm
 if not string match -q -- $PNPM_HOME $PATH
-  set -gx PATH "$PNPM_HOME" $PATH
+    set -gx PATH "$PNPM_HOME" $PATH
 end
 # pnpm end
+
+# php
+
+fish_add_path /usr/local/opt/php@8.0/bin
+fish_add_path /usr/local/opt/php@8.0/sbin
+
+set -gx LDFLAGS "-L/usr/local/opt/php@8.0/lib"
+set -gx CPPFLAGS "-I/usr/local/opt/php@8.0/include"
