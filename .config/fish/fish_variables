@@ -46,6 +46,6 @@ SETUVAR fish_pager_color_selected_background:\x1d
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR --export fish_tmux_config:/Users/aleph/\x2econfig/tmux\x2econf
+SETUVAR --export fish_tmux_config:/home/ito/\x2econfig/tmux\x2econf
 SETUVAR fish_user_paths:/Users/aleph/\x2elocal/share/yvm_fish/1\x2e22\x2e21/bin\x1e/Users/aleph/node_modules/\x2ebin
 SETUVAR nvm_default_version:v20\x2e12\x2e2

@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1716041846104" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1716128444209" />
+    </e>
+    <e n="WelcomeScreen.RunAndroidSdkManager">
+      <i c="3" l="1716041834586" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager2">
+      <i c="15" l="1716128666353" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="1" l="1716041852769" />
+    </e>
+  </component>
+</application>

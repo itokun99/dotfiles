@@ -1,0 +1,65 @@
+2024/05/19-21:30:35.318 3434 Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/19-21:30:35.319 3434 Recovering log #3008
+2024/05/19-21:30:35.320 3434 Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/003008.log 
+2024/05/19-21:30:37.345 342a Compacting 1@0 + 0@1 files
+2024/05/19-21:30:37.361 342a Generated table #3011@0: 17673 keys, 349210 bytes
+2024/05/19-21:30:37.364 342a Generated table #3012@0: 1075 keys, 61062 bytes
+2024/05/19-21:30:37.366 342a Generated table #3013@0: 16 keys, 954 bytes
+2024/05/19-21:30:37.366 342a Compacted 1@0 + 0@1 files => 411226 bytes
+2024/05/19-21:30:37.373 342a compacted to: files[ 0 3 24 0 0 0 0 ]
+2024/05/19-21:30:37.373 342a Level-0 table #3015: started
+2024/05/19-21:30:37.376 342a Level-0 table #3015: 27292 bytes OK
+2024/05/19-21:30:37.378 342a Delete type=0 #3008
+2024/05/19-21:30:37.379 342a Manual compaction at level-0 from '\x00^\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00_\x00\x00\x00' @ 0 : 0; will stop at '\x00^\x00\x00\x05' @ 9393737 : 1
+2024/05/19-21:30:37.379 342a Compacting 1@0 + 3@1 files
+2024/05/19-21:30:37.393 342a Generated table #3016@0: 18162 keys, 358643 bytes
+2024/05/19-21:30:37.397 342a Generated table #3017@0: 1075 keys, 61062 bytes
+2024/05/19-21:30:37.399 342a Generated table #3018@0: 16 keys, 954 bytes
+2024/05/19-21:30:37.399 342a Compacted 1@0 + 3@1 files => 420659 bytes
+2024/05/19-21:30:37.401 342a compacted to: files[ 0 3 24 0 0 0 0 ]
+2024/05/19-21:30:37.401 342a Delete type=2 #3012
+2024/05/19-21:30:37.402 342a Delete type=2 #3011
+2024/05/19-21:30:37.402 342a Delete type=2 #3015
+2024/05/19-21:30:37.402 342a Delete type=2 #3013
+2024/05/19-21:30:37.402 3429 Manual compaction at level-0 from '\x00^\x00\x00\x05' @ 9393737 : 1 .. '\x00_\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/19-21:30:41.271 342a Compacting 1@1 + 4@2 files
+2024/05/19-21:30:41.774 342a Generated table #3019@1: 30862 keys, 2249973 bytes
+2024/05/19-21:30:42.251 342a Generated table #3020@1: 16590 keys, 2226865 bytes
+2024/05/19-21:30:42.259 342a Generated table #3021@1: 55 keys, 15262 bytes
+2024/05/19-21:30:42.260 342a Compacted 1@1 + 4@2 files => 4492100 bytes
+2024/05/19-21:30:42.264 342a compacted to: files[ 0 2 23 0 0 0 0 ]
+2024/05/19-21:30:42.270 342a Delete type=2 #3006
+2024/05/19-21:30:42.271 342a Delete type=2 #2999
+2024/05/19-21:30:42.271 342a Delete type=2 #2991
+2024/05/19-21:30:42.272 342a Delete type=2 #3017
+2024/05/19-21:30:42.274 342a Delete type=2 #2959
+2024/05/19-21:30:42.275 342a Delete type=2 #3009
+2024/05/19-21:30:42.283 3434 Compacting 1@1 + 11@2 files
+2024/05/19-21:30:42.789 3434 Generated table #3022@1: 61556 keys, 2277044 bytes
+2024/05/19-21:30:42.915 3434 Generated table #3023@1: 27925 keys, 2188804 bytes
+2024/05/19-21:30:42.941 3434 Generated table #3024@1: 2919 keys, 2158643 bytes
+2024/05/19-21:30:42.982 3434 Generated table #3025@1: 1956 keys, 2154504 bytes
+2024/05/19-21:30:43.031 3434 Generated table #3026@1: 1996 keys, 2155401 bytes
+2024/05/19-21:30:43.056 3434 Generated table #3027@1: 2377 keys, 2152965 bytes
+2024/05/19-21:30:43.077 3434 Generated table #3028@1: 3243 keys, 2161641 bytes
+2024/05/19-21:30:43.096 3434 Generated table #3029@1: 3695 keys, 2158246 bytes
+2024/05/19-21:30:43.138 3434 Generated table #3030@1: 30671 keys, 2238791 bytes
+2024/05/19-21:30:43.190 3434 Generated table #3031@1: 25618 keys, 2181978 bytes
+2024/05/19-21:30:43.190 3434 Compacted 1@1 + 11@2 files => 21828017 bytes
+2024/05/19-21:30:43.193 3434 compacted to: files[ 0 1 22 0 0 0 0 ]
+2024/05/19-21:30:43.194 3434 Delete type=2 #2934
+2024/05/19-21:30:43.194 3434 Delete type=2 #2930
+2024/05/19-21:30:43.194 3434 Delete type=2 #2952
+2024/05/19-21:30:43.194 3434 Delete type=2 #2931
+2024/05/19-21:30:43.194 3434 Delete type=2 #2933
+2024/05/19-21:30:43.194 3434 Delete type=2 #2927
+2024/05/19-21:30:43.194 3434 Delete type=2 #3016
+2024/05/19-21:30:43.194 3434 Delete type=2 #2929
+2024/05/19-21:30:43.194 3434 Delete type=2 #2932
+2024/05/19-21:30:43.194 3434 Delete type=2 #2928
+2024/05/19-21:30:43.194 3434 Delete type=2 #3004
+2024/05/19-21:30:43.194 3434 Delete type=2 #3005
+2024/05/19-22:10:42.164 342a Compacting 1@1 + 1@2 files
+2024/05/19-22:10:42.257 342a Generated table #3032@1: 88462 keys, 2009889 bytes
+2024/05/19-22:10:42.257 342a Compacted 1@1 + 1@2 files => 2009889 bytes
+2024/05/19-22:10:42.260 342a compacted to: files[ 0 0 22 0 0 0 0 ]

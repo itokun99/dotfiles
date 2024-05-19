@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="332" y="60" width="1256" height="913" key="SettingsEditor" timestamp="1715931784063">
+          <screen x="0" y="26" width="1920" height="1054" />
+        </state>
+        <state x="332" y="60" width="1256" height="913" key="SettingsEditor/0.26.1920.1054" timestamp="1715931784063" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

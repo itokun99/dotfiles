@@ -1,0 +1,7 @@
+2024/05/17-16:55:58.561 2aad Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-16:55:58.562 2aad Recovering log #3
+2024/05/17-16:55:58.582 2aad Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000003.log 
+2024/05/17-16:56:51.789 2aad Level-0 table #5: started
+2024/05/17-16:56:51.814 2aad Level-0 table #5: 1472468 bytes OK
+2024/05/17-16:56:51.818 2aad Delete type=0 #3
+2024/05/17-16:56:51.819 2aad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

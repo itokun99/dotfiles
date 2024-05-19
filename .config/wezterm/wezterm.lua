@@ -15,21 +15,21 @@ wezterm.on("update-right-status", function(window, pane)
 	}))
 end)
 
--- This will hold the configuration.
+-- -- This will hold the configuration.
 local config = wezterm.config_builder()
-
--- This is where you actually apply your config choices
--- Spawn a fish shell in login mode
-config.default_prog = { "/usr/local/bin/fish", "-l" }
-
--- For example, changing the color scheme:
+--
+-- -- This is where you actually apply your config choices
+-- -- Spawn a fish shell in login mode
+config.default_prog = { "/home/linuxbrew/.linuxbrew/bin/fish", "-l" }
+--
+-- -- For example, changing the color scheme:
 -- config.color_scheme = "AdventureTime"
 config.color_scheme = "Catppuccin Mocha"
 config.tab_bar_at_bottom = false
 config.use_fancy_tab_bar = false
 config.enable_tab_bar = false
 config.window_decorations = "RESIZE"
-config.font_size = 14
+config.font_size = 11
 config.line_height = 1.0
 
 config.inactive_pane_hsb = {
