@@ -1,7 +1,0 @@
-2024/05/19-03:57:55.554 b43 Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_id.quora.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/19-03:57:55.555 b43 Recovering log #3
-2024/05/19-03:57:55.555 b43 Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_id.quora.com_0.indexeddb.leveldb/000003.log 
-2024/05/19-03:59:35.465 b44 Level-0 table #5: started
-2024/05/19-03:59:35.468 b44 Level-0 table #5: 3059 bytes OK
-2024/05/19-03:59:35.470 b44 Delete type=0 #3
-2024/05/19-03:59:35.470 b44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
