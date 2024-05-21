@@ -1,0 +1,12 @@
+2024/05/21-01:54:45.964 a4c Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/21-01:54:45.964 a4c Recovering log #7
+2024/05/21-01:54:45.969 a4c Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/000007.log 
+2024/05/21-05:47:06.068 a4d Level-0 table #12: started
+2024/05/21-05:47:06.113 a4d Level-0 table #12: 1883139 bytes OK
+2024/05/21-05:47:06.116 a4d Delete type=0 #7
+2024/05/21-05:47:10.110 a59 Compacting 1@1 + 1@2 files
+2024/05/21-05:47:10.122 a59 Generated table #13@1: 2603 keys, 199224 bytes
+2024/05/21-05:47:10.122 a59 Compacted 1@1 + 1@2 files => 199224 bytes
+2024/05/21-05:47:10.125 a59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/21-05:47:10.125 a59 Delete type=2 #12
+2024/05/21-05:47:10.125 a59 Delete type=2 #9

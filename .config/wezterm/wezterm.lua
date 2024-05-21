@@ -25,9 +25,9 @@ config.default_prog = { "/home/linuxbrew/.linuxbrew/bin/fish", "-l" }
 -- -- For example, changing the color scheme:
 -- config.color_scheme = "AdventureTime"
 config.color_scheme = "Catppuccin Mocha"
-config.tab_bar_at_bottom = false
+config.tab_bar_at_bottom = true
 config.use_fancy_tab_bar = false
-config.enable_tab_bar = false
+config.enable_tab_bar = true
 config.window_decorations = "RESIZE"
 config.font_size = 11
 config.line_height = 1.0

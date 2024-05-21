@@ -1,0 +1,24 @@
+2024/05/21-14:27:33.654 4 Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/05/21-14:27:33.655 4 Recovering log #94
+2024/05/21-14:27:33.656 4 Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000094.log 
+2024/05/21-15:01:56.317 6 Level-0 table #98: started
+2024/05/21-15:01:56.321 6 Level-0 table #98: 20723 bytes OK
+2024/05/21-15:01:56.325 6 Delete type=0 #94
+2024/05/21-15:01:56.325 6 Compacting 4@0 + 1@1 files
+2024/05/21-15:01:56.330 6 Generated table #99@0: 4207 keys, 111736 bytes
+2024/05/21-15:01:56.331 6 Compacted 4@0 + 1@1 files => 111736 bytes
+2024/05/21-15:01:56.333 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/21-15:01:56.333 6 Delete type=2 #98
+2024/05/21-15:01:56.334 6 Delete type=2 #91
+2024/05/21-15:01:56.334 6 Delete type=2 #89
+2024/05/21-15:01:56.334 6 Delete type=2 #95
+2024/05/21-15:01:56.334 6 Delete type=2 #93
+2024/05/21-15:22:12.162 6 Level-0 table #101: started
+2024/05/21-15:22:12.166 6 Level-0 table #101: 23841 bytes OK
+2024/05/21-15:22:12.169 6 Delete type=0 #97
+2024/05/21-15:53:37.333 6 Level-0 table #103: started
+2024/05/21-15:53:37.337 6 Level-0 table #103: 15103 bytes OK
+2024/05/21-15:53:37.340 6 Delete type=0 #100
+2024/05/21-16:08:35.317 6 Level-0 table #105: started
+2024/05/21-16:08:35.327 6 Level-0 table #105: 21518 bytes OK
+2024/05/21-16:08:35.344 6 Delete type=0 #102

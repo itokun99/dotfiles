@@ -1,0 +1,6 @@
+2024/05/21-01:54:41.258 a4c Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/05/21-01:54:41.265 a4c Recovering log #19
+2024/05/21-01:54:41.270 a4c Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000019.log 
+2024/05/21-12:40:40.815 a57 Level-0 table #24: started
+2024/05/21-12:40:40.838 a57 Level-0 table #24: 56422 bytes OK
+2024/05/21-12:40:40.840 a57 Delete type=0 #19

@@ -1,0 +1,6 @@
+2024/05/20-11:54:04.202 b39 Creating DB /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb since it was missing.
+2024/05/20-11:54:04.216 b39 Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/20-12:39:27.214 b3a Level-0 table #5: started
+2024/05/20-12:39:27.218 b3a Level-0 table #5: 142542 bytes OK
+2024/05/20-12:39:27.220 b3a Delete type=0 #3
+2024/05/20-12:39:27.221 b3a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

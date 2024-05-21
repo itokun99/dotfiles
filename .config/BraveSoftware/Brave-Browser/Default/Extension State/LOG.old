@@ -1,0 +1,18 @@
+2024/05/21-01:54:41.654 a59 Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2024/05/21-01:54:41.655 a59 Recovering log #16
+2024/05/21-01:54:41.663 a59 Reusing old log /home/ito/.config/BraveSoftware/Brave-Browser/Default/Extension State/000016.log 
+2024/05/21-04:09:55.466 a4c Level-0 table #20: started
+2024/05/21-04:09:55.494 a4c Level-0 table #20: 518243 bytes OK
+2024/05/21-04:09:55.508 a4c Delete type=0 #16
+2024/05/21-04:09:55.508 a4c Compacting 4@0 + 1@1 files
+2024/05/21-04:09:55.532 a4c Generated table #21@0: 2 keys, 763 bytes
+2024/05/21-04:09:55.532 a4c Compacted 4@0 + 1@1 files => 763 bytes
+2024/05/21-04:09:55.534 a4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/21-04:09:55.535 a4c Delete type=2 #17
+2024/05/21-04:09:55.535 a4c Delete type=2 #8
+2024/05/21-04:09:55.535 a4c Delete type=2 #14
+2024/05/21-04:09:55.535 a4c Delete type=2 #20
+2024/05/21-04:09:55.535 a4c Delete type=2 #11
+2024/05/21-12:18:17.824 a4d Level-0 table #23: started
+2024/05/21-12:18:17.839 a4d Level-0 table #23: 512858 bytes OK
+2024/05/21-12:18:17.844 a4d Delete type=0 #19

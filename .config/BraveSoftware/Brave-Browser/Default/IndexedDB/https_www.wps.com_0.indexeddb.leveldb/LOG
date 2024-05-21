@@ -1,0 +1,10 @@
+2024/05/17-16:24:20.071 2aac Creating DB /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.wps.com_0.indexeddb.leveldb since it was missing.
+2024/05/17-16:24:20.076 2aac Reusing MANIFEST /home/ito/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.wps.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-16:24:20.098 2aad Level-0 table #5: started
+2024/05/17-16:24:20.100 2aad Level-0 table #5: 755 bytes OK
+2024/05/17-16:24:20.102 2aad Delete type=0 #3
+2024/05/17-16:24:20.103 2aad Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/17-16:24:20.282 2aac Level-0 table #7: started
+2024/05/17-16:24:20.287 2aac Level-0 table #7: 3265 bytes OK
+2024/05/17-16:24:20.290 2aac Delete type=0 #4
+2024/05/17-16:24:20.290 2aac Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
