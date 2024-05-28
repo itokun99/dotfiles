@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "delete-config": "rm -rf ~/dotfiles/.config",
+    "get-config": "cp -r ~/.config ~/dotfiles/.config",
+    "clean-config-nvim": "rm -rf ~/dotfiles/.config/nvim/.git",
+    "clean-config-tmux": "rm -rf ~/dotfiles/.config/tmux/.git",
+    "clean-config-alacritty": "rm -rf ~/dotfiles/.config/alacritty/themes/.git",
+    "clean": "yarn clean-config-tmux && yarn clean-config-nvim && yarn clean-config-alacritty",
+    "refresh": "yarn delete-config && yarn get-config && yarn clean",
+    "update": "yarn refresh && git add . && git commit -m \"update config\" && git push -u origin main",
+    "backup-config": "cp -r ~/.config ~/.config-bak",
+    "remove-config": "rm -rf ~/.config",
+    "get-dotconfig": "cp -r ./.config ~/.config",
+    "auto-setup": "yarn backup-config && yarn remove-config && yarn get-dotconfig"
+  }
+}
