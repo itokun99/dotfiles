@@ -18,7 +18,7 @@ set -xg fish_tmux_autostarted false
 set -Ux fish_tmux_config $HOME/.config/tmux.conf
 
 # JAVA Variables
-set -xg JAVA_HOME /usr/lib/jvm/java-11-openjdk-amd64
+set -xg JAVA_HOME /usr/lib/jvm/java-11-openjdk
 set -xg GEM_HOME $HOME/.gem
 
 set -xg fish_user_paths $HOME/node_modules/.bin
@@ -29,7 +29,7 @@ set -xg fish_user_paths $HOME/node_modules/.bin
 # set -U fish_user_paths $HOME/.yarn/bin
 
 # alias mokita_upload_appdebug="cd $MOKITA_APK_DIR/debug && cp app-debug.apk app-debug-dev-upgrade.apk && gdrive files upload app-debug-dev-upgrade.apk --parent=1bQO7OOXauaS9Rc7HTQFLU7AlJu9c_cOV"
-alias mokita_appdebug="cd $MOKITA_DIR && yarn build-debug && mokita_upload_appdebug && cd $MOKITA_DIR"
+# alias mokita_appdebug="cd $MOKITA_DIR && yarn build-debug && mokita_upload_appdebug && cd $MOKITA_DIR"
 
 # set -xg OPENAI_API_KEY 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
 
@@ -54,4 +54,6 @@ end
 #set -gx CPPFLAGS "-I/usr/local/opt/php@8.0/include"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-
+alias android-studio="cd ~/android-studio/bin && ./studio.sh"
+alias android-emulator="cd ~/Android/Sdk/emulator && ./emulator"
+alias set-cpu-governor="sudo cpupower  frequency-set --governor"

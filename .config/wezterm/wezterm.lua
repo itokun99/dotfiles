@@ -28,8 +28,8 @@ config.color_scheme = "Catppuccin Mocha"
 config.tab_bar_at_bottom = true
 config.use_fancy_tab_bar = false
 config.enable_tab_bar = true
-config.window_decorations = "RESIZE"
-config.font_size = 11
+config.window_decorations = "RESIZE | TITLE"
+config.font_size = 12
 config.line_height = 1.0
 
 config.inactive_pane_hsb = {
@@ -37,7 +37,17 @@ config.inactive_pane_hsb = {
 	brightness = 0.5,
 }
 
-config.scrollback_lines = 10000
+config.scrollback_lines = 9999999
+
+config.window_background_opacity = 0.88
+config.enable_scroll_bar = true
+
+config.window_padding = {
+	left = 0,
+	right = 0,
+	top = 0,
+	bottom = 0,
+}
 
 config.font = wezterm.font("FiraCode Nerd Font", { weight = "Medium" })
 
