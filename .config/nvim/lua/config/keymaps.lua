@@ -4,10 +4,10 @@
 --
 --
 -- -- use `vim.keymap.set` instead
-local map = vim.keymap.set
+-- local map = vim.keymap.set
 
 -- Resize window using <ctrl> arrow keys
-map("n", "<A-Up>", "<cmd>resize +2<cr>", { desc = "Increase Window Height" })
-map("n", "<A-Down>", "<cmd>resize -2<cr>", { desc = "Decrease Window Height" })
-map("n", "<A-Left>", "<cmd>vertical resize -2<cr>", { desc = "Decrease Window Width" })
-map("n", "<A-Right>", "<cmd>vertical resize +2<cr>", { desc = "Increase Window Width" })
+-- map("n", "<A-Up>", "<cmd>resize +2<cr>", { desc = "Increase Window Height" })
+-- map("n", "<A-Down>", "<cmd>resize -2<cr>", { desc = "Decrease Window Height" })
+-- map("n", "<A-Left>", "<cmd>vertical resize -2<cr>", { desc = "Decrease Window Width" })
+-- map("n", "<A-Right>", "<cmd>vertical resize +2<cr>", { desc = "Increase Window Width" })

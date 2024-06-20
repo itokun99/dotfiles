@@ -5,7 +5,7 @@ set -gx PATH $ANDROID_HOME/tools $PATH
 set -gx PATH $ANDROID_HOME/tools/bin $PATH
 set -gx PATH $ANDROID_HOME/platform-tools $PATH
 set -gx PATH /Library/PostgreSQL/15/bin $PATH
-
+set -gx ANDROID_AVD_HOME $HOME/.var/app/com.google.AndroidStudio/config/.android/avd
 # Golang developers might need this one 
 set -xg GOPATH $HOME/gocode
 
@@ -18,7 +18,7 @@ set -xg fish_tmux_autostarted false
 set -Ux fish_tmux_config $HOME/.config/tmux.conf
 
 # JAVA Variables
-set -xg JAVA_HOME /usr/lib/jvm/java-11-openjdk
+set -xg JAVA_HOME $HOME/.sdkman/candidates/java/17.0.0-ms
 set -xg GEM_HOME $HOME/.gem
 
 set -xg fish_user_paths $HOME/node_modules/.bin
