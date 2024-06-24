@@ -20,7 +20,7 @@ local config = wezterm.config_builder()
 --
 -- -- This is where you actually apply your config choices
 -- -- Spawn a fish shell in login mode
-config.default_prog = { "/home/linuxbrew/.linuxbrew/bin/fish", "-l" }
+config.default_prog = { "/usr/bin/fish", "-l" }
 --
 -- -- For example, changing the color scheme:
 -- config.color_scheme = "AdventureTime"
