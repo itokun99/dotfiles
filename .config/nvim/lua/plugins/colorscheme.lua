@@ -1,18 +1,18 @@
 return {
   -- add dracula
-  {
-    "Mofiqul/dracula.nvim",
-    opts = {
-      transparent_bg = false,
-      italic_comment = true,
-    },
-  },
+  -- {
+  --   "Mofiqul/dracula.nvim",
+  --   opts = {
+  --     transparent_bg = false,
+  --     italic_comment = true,
+  --   },
+  -- },
 
   -- Configure LazyVim to load dracula
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "eyes",
     },
   },
 }

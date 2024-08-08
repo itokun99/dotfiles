@@ -25,12 +25,15 @@ config.default_prog = { "/usr/bin/fish", "-l" }
 -- -- For example, changing the color scheme:
 -- config.color_scheme = "AdventureTime"
 config.color_scheme = "Catppuccin Mocha"
+config.colors = {
+	background = "black",
+}
 config.tab_bar_at_bottom = true
 config.use_fancy_tab_bar = false
-config.enable_tab_bar = true
+config.enable_tab_bar = false
 config.window_decorations = "RESIZE | TITLE"
-config.font_size = 10
-config.line_height = 1.0
+config.font_size = 11
+config.line_height = 1.2
 
 config.inactive_pane_hsb = {
 	saturation = 0.5,
@@ -39,8 +42,8 @@ config.inactive_pane_hsb = {
 
 config.scrollback_lines = 3500
 
-config.window_background_opacity = 1
-config.enable_scroll_bar = true
+config.window_background_opacity = 0.85
+config.enable_scroll_bar = false
 
 config.window_padding = {
 	left = 0,
@@ -50,6 +53,8 @@ config.window_padding = {
 }
 
 config.font = wezterm.font("FiraCode Nerd Font", { weight = "Medium" })
+
+config.harfbuzz_features = { "calt=0", "clig=0", "liga=0" }
 
 -- and finally, return the configuration to wezterm
 return config

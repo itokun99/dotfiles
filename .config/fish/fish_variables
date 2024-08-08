@@ -34,3 +34,4 @@ SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
 SETUVAR --export fish_tmux_config:/home/ito/\x2econfig/tmux\x2econf
+SETUVAR fish_user_paths:/home/ito/\x2elocal/bin\x1e/home/ito/node_modules/\x2ebin

@@ -8,7 +8,7 @@ set -gx PATH /Library/PostgreSQL/15/bin $PATH
 set -gx ANDROID_AVD_HOME $HOME/.var/app/com.google.AndroidStudio/config/.android/avd
 # Golang developers might need this one 
 set -xg GOPATH $HOME/gocode
-
+set -gx PATH /home/linuxbrew/.linuxbrew/lib/ruby/gems/3.3.0/bin $PATH
 # Python developers otherwise
 set -xg PYTHONDONTWRITEBYTECODE 1
 set -xg fish_tmux_autostart false
@@ -16,7 +16,7 @@ set -xg fish_tmux_autostart_once false
 set -xg fish_tmux_autoconnect true
 set -xg fish_tmux_autostarted false
 set -Ux fish_tmux_config $HOME/.config/tmux.conf
-
+set -gx PATH $HOME/.rbenv/bin $PATH
 # JAVA Variables
 set -xg JAVA_HOME $HOME/.sdkman/candidates/java/17.0.0-ms
 set -xg GEM_HOME $HOME/.gem
@@ -57,3 +57,6 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 alias android-studio="cd ~/android-studio/bin && ./studio.sh"
 alias android-emulator="cd ~/Android/Sdk/emulator && ./emulator"
 alias set-cpu-governor="sudo cpupower  frequency-set --governor"
+
+
+set -gx NVM_DIR $HOME/.config/nvm
