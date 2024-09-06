@@ -5,10 +5,14 @@ set -gx PATH $ANDROID_HOME/tools $PATH
 set -gx PATH $ANDROID_HOME/tools/bin $PATH
 set -gx PATH $ANDROID_HOME/platform-tools $PATH
 set -gx PATH /Library/PostgreSQL/15/bin $PATH
-set -gx ANDROID_AVD_HOME $HOME/.var/app/com.google.AndroidStudio/config/.android/avd
+set -gx ANDROID_AVD_HOME $HOME/.android/avd
 # Golang developers might need this one 
 set -xg GOPATH $HOME/gocode
+set -xg PATH $HOME/.config/composer/vendor/bin $PATH
 set -gx PATH /home/linuxbrew/.linuxbrew/lib/ruby/gems/3.3.0/bin $PATH
+set -xg PKG_CONFIG_PATH /home/linuxbrew/.linuxbrew/bin/pkg-config $PKG_CONFIG_PATH
+set -xg PKG_CONFIG_PATH /usr/share/pkgconfig $PKG_CONFIG_PATH
+# set -xg PKG_CONFIG_PATH /usr/lib/x86 $PKG_CONFIG_PATH
 # Python developers otherwise
 set -xg PYTHONDONTWRITEBYTECODE 1
 set -xg fish_tmux_autostart false
@@ -20,6 +24,11 @@ set -gx PATH $HOME/.rbenv/bin $PATH
 # JAVA Variables
 set -xg JAVA_HOME $HOME/.sdkman/candidates/java/17.0.0-ms
 set -xg GEM_HOME $HOME/.gem
+
+set -xg CHROME_EXECUTABLE /usr/bin/google-chrome-stable
+
+# Flutter
+set -gx PATH $HOME/flutter-dev/flutter/bin $PATH
 
 set -xg fish_user_paths $HOME/node_modules/.bin
 
@@ -54,9 +63,9 @@ end
 #set -gx CPPFLAGS "-I/usr/local/opt/php@8.0/include"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
-alias android-studio="cd ~/android-studio/bin && ./studio.sh"
+alias android-studio="cd /opt/android-studio/bin && ./studio.sh"
 alias android-emulator="cd ~/Android/Sdk/emulator && ./emulator"
 alias set-cpu-governor="sudo cpupower  frequency-set --governor"
-
+alias google-chrome="google-chrome-stable"
 
 set -gx NVM_DIR $HOME/.config/nvm

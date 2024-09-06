@@ -4,3 +4,5 @@
 .config/configstore
 .config/gdrive3
 .config/yarn
+node_modules
+.git

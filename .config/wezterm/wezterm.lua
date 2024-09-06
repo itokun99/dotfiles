@@ -33,7 +33,7 @@ config.use_fancy_tab_bar = false
 config.enable_tab_bar = false
 config.window_decorations = "RESIZE | TITLE"
 config.font_size = 11
-config.line_height = 1.2
+config.line_height = 1.5
 
 config.inactive_pane_hsb = {
 	saturation = 0.5,
