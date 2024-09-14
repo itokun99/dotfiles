@@ -42,7 +42,7 @@ config.inactive_pane_hsb = {
 
 config.scrollback_lines = 3500
 
-config.window_background_opacity = 0.85
+config.window_background_opacity = 0.80
 config.enable_scroll_bar = false
 
 config.window_padding = {
