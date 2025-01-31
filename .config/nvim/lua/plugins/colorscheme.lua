@@ -20,7 +20,15 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "eyes",
-      -- style = "mocha",
+    },
+  },
+  {
+    "nvim-lualine/lualine.nvim",
+    event = "VeryLazy",
+    opts = {
+      options = {
+        theme = "eyes",
+      },
     },
   },
 }
