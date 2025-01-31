@@ -1,0 +1,81 @@
+# name: 'Custom tmux-inspired theme'
+# url: 'https://github.com/catppuccin/fish'
+# preferred_background: 303030
+
+# Normal text
+fish_color_normal e4e4e4  # #e4e4e4 (white)
+
+# Command
+fish_color_command 00afff  # #00afff (light blue)
+
+# Parameter
+fish_color_param 8a8a8a  # #8a8a8a (light gray)
+
+# Keyword
+fish_color_keyword ff00af  # #ff00af (pink)
+
+# Quote
+fish_color_quote 5fff00  # #5fff00 (green)
+
+# Redirection
+fish_color_redirection ffff00  # #ffff00 (yellow)
+
+# End
+fish_color_end ffff00  # #ffff00 (yellow)
+
+# Comment
+fish_color_comment 8a8a8a  # #8a8a8a (light gray)
+
+# Error
+fish_color_error d70000  # #d70000 (red)
+
+# Gray
+fish_color_gray 303030  # #303030 (dark gray)
+
+# Selection
+fish_color_selection --background=303030  # #303030 (dark gray)
+
+# Search match
+fish_color_search_match --background=303030  # #303030 (dark gray)
+
+# Option
+fish_color_option 5fff00  # #5fff00 (green)
+
+# Operator
+fish_color_operator ffff00  # #ffff00 (yellow)
+
+# Escape
+fish_color_escape ff00af  # #ff00af (pink)
+
+# Autosuggestion
+fish_color_autosuggestion 8a8a8a  # #8a8a8a (light gray)
+
+# Cancel
+fish_color_cancel ff00af  # #ff00af (pink)
+
+# Current working directory
+fish_color_cwd ffff00  # #ffff00 (yellow)
+
+# User
+fish_color_user 00afff  # #00afff (light blue)
+
+# Host
+fish_color_host 00afff  # #00afff (light blue)
+
+# Host remote
+fish_color_host_remote 5fff00  # #5fff00 (green)
+
+# Status
+fish_color_status ff00af  # #ff00af (pink)
+
+# Pager progress
+fish_pager_color_progress 8a8a8a  # #8a8a8a (light gray)
+
+# Pager prefix
+fish_pager_color_prefix ffff00  # #ffff00 (yellow)
+
+# Pager completion
+fish_pager_color_completion e4e4e4  # #e4e4e4 (white)
+
+# Pager description
+fish_pager_color_description 8a8a8a  # #8a8a8a (light gray)

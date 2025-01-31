@@ -24,15 +24,24 @@ config.default_prog = { "/usr/bin/fish", "-l" }
 --
 -- -- For example, changing the color scheme:
 -- config.color_scheme = "AdventureTime"
-config.color_scheme = "Catppuccin Mocha"
+-- config.color_scheme = "Catppuccin Mocha"
+-- config.color_scheme = "Neon"
+-- config.color_scheme = "Mono (terminal.sexy)"
+-- config.color_scheme = "Mono Theme (terminal.sexy)"
+-- config.color_scheme = "Mono Cyan (Gogh)"
+-- config.color_scheme = "Mono White (Gogh)"
+-- config.color_scheme = "City Streets (terminal.sexy)"
+-- config.color_scheme = "Dark Violet (base16)"
+config.color_scheme = "Dracula (base16)"
+
 config.colors = {
 	background = "black",
 }
 config.tab_bar_at_bottom = true
 config.use_fancy_tab_bar = false
 config.enable_tab_bar = false
-config.window_decorations = "RESIZE | TITLE"
-config.font_size = 11
+config.window_decorations = "RESIZE"
+config.font_size = 12.5
 config.line_height = 1.5
 
 config.inactive_pane_hsb = {
@@ -42,7 +51,7 @@ config.inactive_pane_hsb = {
 
 config.scrollback_lines = 3000
 
-config.window_background_opacity = 1
+config.window_background_opacity = 0.8
 config.enable_scroll_bar = false
 
 config.window_padding = {
