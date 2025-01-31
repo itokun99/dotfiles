@@ -1,0 +1,9 @@
+package foreign-env
+package https://github.com/catppuccin/fish
+package https://github.com/cideM/fish-yvm
+package https://github.com/kidonng/zoxide.fish
+package https://github.com/wfxr/forgit
+package nvm
+package zoxide
+theme boxfish
+theme default
