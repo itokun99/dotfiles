@@ -1,0 +1,8 @@
+.config/iterm2
+.config/nvim-bak
+.config/github-copilot
+.config/configstore
+.config/gdrive3
+.config/yarn
+node_modules
+.git
