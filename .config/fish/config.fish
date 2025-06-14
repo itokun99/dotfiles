@@ -42,7 +42,6 @@ set -xg fish_user_paths $HOME/node_modules/.bin
 
 # set -xg OPENAI_API_KEY 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
 
-
 if status is-interactive
     # Commands to run in interactive sessions can go here
 end
@@ -73,3 +72,8 @@ set -gx NVM_DIR $HOME/.config/nvm
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
 set --export PATH $BUN_INSTALL/bin $PATH
+set -x PKG_CONFIG_PATH /usr/lib/pkgconfig $PKG_CONFIG_PATH
+
+function nvm
+    bash -c "source $NVM_DIR/nvm.sh; nvm $argv"
+end
