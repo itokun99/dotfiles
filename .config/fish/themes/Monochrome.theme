@@ -1,56 +1,30 @@
-# name: Monochrome
-# url: https://github.com/itokun99/monochrome-fish
-# preferred_background: '#1e1e1e'
+# name: 'Monochrome Theme (Very Bright)'
+# url: 'https://github.com/catppuccin/fish'
+# preferred_background: ffffff
 
-# --- Elemen Utama ---
-# Teks normal
-fish_color_normal dddddd
-# Perintah yang Anda ketik
-fish_color_command --bold ffffff
-# Parameter atau argumen setelah perintah
-fish_color_param aaaaaa
-# Teks di dalam tanda kutip
-fish_color_quote dddddd
-# Tanda panah redirect (>, <)
-fish_color_redirection aaaaaa
-# Akhiran seperti 'if', 'end', 'for'
-fish_color_end aaaaaa
-# Opsi command-line (--help, -l)
-fish_color_option aaaaaa
-# Operator seperti '&&', '|'
-fish_color_operator aaaaaa
-# Karakter escape (\n, \t)
-fish_color_escape aaaaaa
-
-# --- Elemen UI & Status ---
-# Komentar (#) dan saran otomatis
-fish_color_autosuggestion 666666
-fish_color_comment 666666
-# Pesan error
-fish_color_error --bold ffffff
-# Teks abu-abu lainnya
-fish_color_gray 666666
-# Latar belakang saat memilih teks
-fish_color_selection --background=333333
-# Latar belakang saat mencari di history
-fish_color_search_match --background=333333
-# Perintah 'cancel' (misal: Ctrl+C)
-fish_color_cancel ffffff
-# Status bar (misal: exit code error)
-fish_color_status --bold ffffff
-
-# --- Prompt (PS1) ---
-# Nama direktori saat ini (cwd)
-fish_color_cwd ffffff
-# Nama user
-fish_color_user aaaaaa
-# Nama host
-fish_color_host aaaaaa
-# Host remote (saat SSH)
-fish_color_host_remote aaaaaa
-
-# --- Pager (Pelengkapan Otomatis) ---
-fish_pager_color_progress 666666
-fish_pager_color_prefix ffffff
-fish_pager_color_completion dddddd
-fish_pager_color_description 666666
+fish_color_normal f0f0f0  # #f0f0f0 (lightest gray)
+fish_color_command e0e0e0  # #e0e0e0 (lighter gray)
+fish_color_param d0d0d0  # #d0d0d0 (light gray)
+fish_color_keyword c0c0c0  # #c0c0c0 (light gray)
+fish_color_quote b0b0b0  # #b0b0b0 (medium gray)
+fish_color_redirection a0a0a0  # #a0a0a0 (medium gray)
+fish_color_end e0e0e0  # #e0e0e0 (lighter gray)
+fish_color_comment aaaaaa  # #aaaaaa (lighter gray)
+fish_color_error 7f7f7f  # #7f7f7f (dark gray)
+fish_color_gray 9f9f9f  # #9f9f9f (gray)
+fish_color_selection --background=c0c0c0  # #c0c0c0 (light gray)
+fish_color_search_match --background=c0c0c0  # #c0c0c0 (light gray)
+fish_color_option d0d0d0  # #d0d0d0 (light gray)
+fish_color_operator e0e0e0  # #e0e0e0 (lighter gray)
+fish_color_escape aaaaaa  # #aaaaaa (lighter gray)
+fish_color_autosuggestion 9f9f9f  # #9f9f9f (gray)
+fish_color_cancel aaaaaa  # #aaaaaa (lighter gray)
+fish_color_cwd d0d0d0  # #d0d0d0 (light gray)
+fish_color_user f0f0f0  # #f0f0f0 (lightest gray)
+fish_color_host e0e0e0  # #e0e0e0 (lighter gray)
+fish_color_host_remote d0d0d0  # #d0d0d0 (light gray)
+fish_color_status c0c0c0  # #c0c0c0 (light gray)
+fish_pager_color_progress 9f9f9f  # #9f9f9f (gray)
+fish_pager_color_prefix e0e0e0  # #e0e0e0 (lighter gray)
+fish_pager_color_completion f0f0f0  # #f0f0f0 (lightest gray)
+fish_pager_color_description 9f9f9f  # #9f9f9f (gray)

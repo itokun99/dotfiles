@@ -6,34 +6,34 @@ local servers = {
   html = {},
   cssls = {},
   awk_ls = {},
-  bashls = {},
-  vtsls = {},
-  tsserver = {},
+  -- bashls = {},
+  -- vtsls = {},
+  -- tsserver = {},
   ts_ls = {},
   gopls = {},
-  golangci_lint_ls = {},
-  cssmodules_ls = {},
-  graphql = {},
+  -- golangci_lint_ls = {},
+  -- cssmodules_ls = {},
+  -- graphql = {},
   docker_language_server = {},
-  fish_lsp = {},
+  -- fish_lsp = {},
   jsonls = {},
-  sqls = {},
-  tailwindcss = {},
+  -- sqls = {},
+  -- tailwindcss = {},
   yamlls = {},
-  kotlin_language_server = {},
-  kotlin_lsp = {},
-  jdtls = {},
+  -- kotlin_language_server = {},
+  -- kotlin_lsp = {},
+  -- jdtls = {},
   lua_ls = {},
-  pyright = {
-    settings = {
-      python = {
-        analysis = {
-          autoSearchPaths = true,
-          typeCheckingMode = "basic",
-        },
-      },
-    },
-  },
+  -- pyright = {
+  --   settings = {
+  --     python = {
+  --       analysis = {
+  --         autoSearchPaths = true,
+  --         typeCheckingMode = "basic",
+  --       },
+  --     },
+  --   },
+  -- },
 }
 
 -- vim.lsp.enable(servers)
