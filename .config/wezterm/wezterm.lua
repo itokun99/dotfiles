@@ -106,7 +106,7 @@ config.enable_tab_bar = true
 config.hide_tab_bar_if_only_one_tab = true
 config.window_decorations = "RESIZE"
 config.font_size = 12.5
-config.line_height = 1.5
+config.line_height = 1
 
 config.inactive_pane_hsb = {
 	saturation = 0.5,
@@ -133,7 +133,8 @@ config.window_frame = {
 
 -- config.font = wezterm.font("FiraCode Nerd Font", { weight = "Medium" })
 -- config.font = wezterm.font("ComicShannsMono Nerd Font", { weight = "Bold" })
-config.font = wezterm.font("CaskaydiaCove Nerd Font", { weight = "Medium" })
+-- config.font = wezterm.font("CaskaydiaCove Nerd Font", { weight = "Medium" })
+config.font = wezterm.font("Cascadia Code NF", { weight = "Medium" })
 
 -- config.harfbuzz_features = { "calt=0", "clig=0", "liga=0" }
 

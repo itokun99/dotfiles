@@ -23,10 +23,18 @@ return {
     },
   },
   {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "eyes",
+    },
+  },
+  {
     "nvim-lualine/lualine.nvim",
     event = "VeryLazy",
     opts = {
-      theme = "eyes",
+      options = {
+        theme = "eyes",
+      },
     },
   },
 }

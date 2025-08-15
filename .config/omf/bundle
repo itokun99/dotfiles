@@ -1,10 +1,9 @@
-package foreign-env
-package https://github.com/catppuccin/fish
-package https://github.com/cideM/fish-yvm
-package https://github.com/kidonng/zoxide.fish
-package https://github.com/Realiserad/fish-ai
-package https://github.com/wfxr/forgit
-package nvm
-package zoxide
+package https://github.com/catppuccin/fish.git
 theme boxfish
+theme clearance
 theme default
+theme graystatus
+theme https://github.com/itokun99/mono-robby.git
+theme robbyrussell
+theme simple-ass-prompt
+theme slacker

@@ -1,0 +1,17 @@
+#general
+general.live_config_reload = true
+
+
+# font
+font.normal.family = "ComicShannsMono Nerd Font"
+font.normal.style = "Bold"
+font.size = 14
+
+#window
+window.opacity = 0.95
+window.padding.x = 2
+window.padding.y = 2
+window.blur = false
+window.dynamic_title = true
+
+cursor.style = "Block"

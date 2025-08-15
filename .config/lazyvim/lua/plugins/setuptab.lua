@@ -2,8 +2,6 @@ return {
 
   {
     "saghen/blink.cmp",
-    ---@module 'blink.cmp'
-    ---@type blink.cmp.Config
     opts = {
       keymap = {
         preset = "default",
@@ -29,25 +27,10 @@ return {
                 "kind",
               },
             },
-            -- components = {
-            --   kind_icon = {
-            --     ellipsis = false,
-            --     text = function(ctx)
-            --       local kind_icon, _, _ = require("mini.icons").get("lsp", ctx.kind)
-            --       return kind_icon
-            --     end,
-            --     -- Optionally, you may also use the highlights from mini.icons
-            --     highlight = function(ctx)
-            --       local _, hl, _ = require("mini.icons").get("lsp", ctx.kind)
-            --       return hl
-            --     end,
-            --   },
-            -- },
           },
         },
         documentation = { window = { border = "single" } },
       },
-      -- completion = { list = { selection = "manual" } },
     },
   },
 }
