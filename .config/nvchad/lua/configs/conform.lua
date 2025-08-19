@@ -5,6 +5,7 @@ local options = {
     html = { "prettierd", "prettier" },
     javascript = { "prettierd", "prettier" },
     typescript = { "prettierd", "prettier" },
+    ["*"] = { "none-ls" },
   },
 
   format_on_save = {
