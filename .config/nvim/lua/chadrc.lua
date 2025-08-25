@@ -7,12 +7,30 @@ local M = {}
 
 M.base46 = {
   -- theme = "onedark",
-  theme = "chadracula",
+  theme = "monochrome",
   transparency = true,
   hl_override = {
     Comment = { italic = true },
     ["@comment"] = { italic = true },
     ["@punctuation.bracket"] = {
+      fg = "white",
+    },
+    ["@variable"] = {
+      fg = "white",
+    },
+    ["@variable.builtin"] = {
+      fg = "white",
+    },
+    ["@variable.parameter"] = {
+      fg = "white",
+    },
+    ["@constant"] = {
+      fg = "white",
+    },
+    ["@constant.builtin"] = {
+      fg = "white",
+    },
+    ["@string"] = {
       fg = "white",
     },
     NvimTreeFolderIcon = {

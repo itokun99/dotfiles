@@ -113,7 +113,10 @@ return {
       { "kkharji/sqlite.lua" },
     },
     opts = {
-      ring = { storage = "sqlite" },
+      ring = { storage = "sqlite", history_length = 10 },
+      system_clipboard = {
+        sync_with_ring = true,
+      },
     },
     keys = {
       { "<leader>pp", "<cmd>YankyRingHistory<cr>", mode = { "n", "x" }, desc = "Open Yank History" },
