@@ -1,0 +1,8 @@
+[2m2025-01-08T04:44:24.684471Z[0m [33m WARN[0m [2matac::app::files::key_bindings[0m[2m:[0m No key bindings file found, using default
+[2m2025-01-08T04:44:24.684524Z[0m [33m WARN[0m [2matac::app::files::theme[0m[2m:[0m No theme file found, using default
+[2m2025-01-08T04:44:25.392913Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-01-08T04:44:25.533108Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-01-08T04:44:25.662735Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Down
+[2m2025-01-08T04:44:26.206829Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Up
+[2m2025-01-08T04:44:26.309079Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: Up
+[2m2025-01-08T04:44:26.748862Z[0m [34mDEBUG[0m [2matac::tui::events[0m[2m:[0m Key pressed: q
