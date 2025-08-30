@@ -14,7 +14,7 @@ return {
         null_ls.builtins.formatting.gofmt, -- Untuk Go
         null_ls.builtins.formatting.goimports, -- Untuk Go (mengatur imports)
         -- null_ls.builtins.formatting.rustfmt, -- Untuk Rust
-        null_ls.builtins.formatting.shfmt, -- Untuk Shell scripts
+        -- null_ls.builtins.formatting.shfmt, -- Untuk Shell scripts
 
         -- Diagnostics (Linting)
         null_ls.builtins.diagnostics.eslint_d, -- Untuk Web Dev
