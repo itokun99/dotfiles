@@ -12,6 +12,10 @@ return {
     config = function()
       require "configs.lspconfig"
     end,
+    opts = {
+      inlay_hints = true,
+      exclude = { "vue" },
+    },
   },
 
   -- flash.nvim
