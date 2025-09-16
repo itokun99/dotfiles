@@ -29,7 +29,34 @@ return {
             },
           },
         },
-        documentation = { window = { border = "single" } },
+        trigger = {
+          show_in_snippet = false,
+        },
+        documentation = { window = { border = "single" }, auto_show = true, auto_show_delay_ms = 1000 },
+      },
+    },
+  },
+
+  { "rafamadriz/friendly-snippets", enabled = false },
+  {
+    -- Nonaktifkan layar startup/dashboard
+    { "goolord/alpha-nvim", enabled = false },
+
+    -- Nonaktifkan indent line (garis vertikal untuk indentasi)
+    -- { "lukas-reineke/indent-blankline.nvim", enabled = },
+
+    -- Jika Anda tidak terlalu peduli dengan ikon, menonaktifkan ini memberi perbedaan
+    { "nvim-tree/nvim-web-devicons", enabled = false },
+  },
+  {
+    "akinsho/bufferline.nvim",
+    opts = {
+      options = {
+        -- Matikan pemisahan buffer berdasarkan direktori/LSP
+        -- Ini mengurangi kalkulasi yang harus dilakukan
+        separator_style = "thin",
+        -- Tampilkan nama buffer saja, tanpa path
+        mode = "buffers",
       },
     },
   },
