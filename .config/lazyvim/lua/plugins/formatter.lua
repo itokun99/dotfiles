@@ -1,39 +1,50 @@
-return {
-  -- {
-  --   "nvimtools/none-ls.nvim",
-  --   opts = function(_, opts)
-  --     local null_ls = require("null-ls")
-  --     opts.sources = opts.sources or {}
-  --     vim.list_extend(opts.sources, {
-  --       -- Formatting
-  --       null_ls.builtins.formatting.stylua, -- Untuk Lua
-  --       null_ls.builtins.formatting.prettier, -- Untuk Web Dev (JS, TS, CSS, JSON)
-  --       -- null_ls.builtins.formatting.black, -- Untuk Python
-  --       null_ls.builtins.formatting.gofmt, -- Untuk Go
-  --       null_ls.builtins.formatting.goimports, -- Untuk Go (mengatur imports)
-  --
-  --       -- Diagnostics (Linting)
-  --       -- null_ls.builtins.diagnostics.eslint_d, -- Untuk Web Dev
-  --     })
-  --     return opts
-  --   end,
-  -- },
+-- ~/.config/nvim/lua/plugins/formatter.lua
 
-  -- [2] Konfigurasi conform.nvim untuk MENGGUNAKAN none-ls
+return {
+  -- [1] Konfigurasi conform.nvim untuk formatting
   {
     "stevearc/conform.nvim",
     opts = {
       formatters_by_ft = {
-        ["*"] = { "none-ls" },
-      },
-      formatters = {
-        ["none-ls"] = {
-          -- Ini adalah konfigurasi yang hilang sebelumnya
-          command = "none-ls",
-          args = { "format", "-s", "-" },
-          stdin = true,
-        },
+        -- Untuk file web, coba 'prettierd' dulu, jika gagal baru pakai 'prettier'
+        javascript = { "prettierd", "prettier" },
+        typescript = { "prettierd", "prettier" },
+        javascriptreact = { "prettierd", "prettier" },
+        typescriptreact = { "prettierd", "prettier" },
+        -- vue = { "prettierd", "prettier" },
+        css = { "prettierd", "prettier" },
+        scss = { "prettierd", "prettier" },
+        html = { "prettierd", "prettier" },
+        json = { "prettierd", "prettier" },
+        yaml = { "prettierd", "prettier" },
+        markdown = { "prettierd", "prettier" },
+
+        -- Formatter lain (tidak berubah)
+        lua = { "stylua" },
+        go = { "gofmt", "goimports" },
+        -- python = { "isort", "black" },
       },
     },
   },
+
+  -- [2] Konfigurasi nvim-lint untuk linting
+  {
+    "mfussenegger/nvim-lint",
+    opts = {
+      linters_by_ft = {
+        -- Gunakan eslint_d untuk file web
+        javascript = { "eslint_d" },
+        typescript = { "eslint_d" },
+        javascriptreact = { "eslint_d" },
+        typescriptreact = { "eslint_d" },
+
+        -- Linter lain (tidak berubah)
+        python = { "flake8" },
+        sh = { "shellcheck" },
+      },
+    },
+  },
+
+  -- [3] Pastikan none-ls dinonaktifkan untuk menghindari konflik
+  { "nvimtools/none-ls.nvim", enabled = false },
 }
