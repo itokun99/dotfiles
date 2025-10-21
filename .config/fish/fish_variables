@@ -30,6 +30,7 @@ SETUVAR fish_color_selection:\x2d\x2dbackground\x3d333333
 SETUVAR fish_color_status:\x2d\x2dbold\x1effffff
 SETUVAR fish_color_user:aaaaaa
 SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_cursor_insert:block
 SETUVAR fish_key_bindings:fish_default_key_bindings
 SETUVAR fish_pager_color_background:\x1d
 SETUVAR fish_pager_color_completion:dddddd
@@ -44,5 +45,5 @@ SETUVAR fish_pager_color_selected_background:\x1d
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR --export fish_tmux_config:/home/ito/\x2econfig/tmux\x2econf
-SETUVAR fish_user_paths:/home/ito/\x2ecargo/bin\x1e/home/ito/\x2elocal/share/fnm/node\x2dversions/v22\x2e18\x2e0/installation/bin\x1e/home/ito/Android/Sdk/platform\x2dtools\x1e/home/ito/Android/Sdk/emulator
+SETUVAR --export fish_tmux_config:/Users/aleph/\x2econfig/tmux\x2econf
+SETUVAR fish_user_paths:/Users/aleph/Library/Android/Sdk/platform\x2dtools\x1e/Users/aleph/Library/Android/Sdk/emulator\x1e/home/ito/\x2ecargo/bin\x1e/home/ito/\x2elocal/share/fnm/node\x2dversions/v22\x2e18\x2e0/installation/bin\x1e/home/ito/Android/Sdk/platform\x2dtools\x1e/home/ito/Android/Sdk/emulator\x1e/Applications/Ghostty\x2eapp/Contents/MacOS

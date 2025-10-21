@@ -19,9 +19,12 @@ return {
         yaml = { "prettierd", "prettier" },
         markdown = { "prettierd", "prettier" },
 
+        java = { "google-java-format" },
+
         -- Formatter lain (tidak berubah)
         lua = { "stylua" },
         go = { "gofmt", "goimports" },
+        xml = { "xmlformatter" },
         -- python = { "isort", "black" },
       },
     },

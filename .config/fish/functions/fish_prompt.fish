@@ -1,1 +1,0 @@
-/home/ito/.local/share/omf/themes/mono-robby/fish_prompt.fish

@@ -1,0 +1,31 @@
+
+# font
+font-family = "ComicShannsMono Nerd Font"
+font-size = 14
+
+# cursor
+cursor-style = "block"
+cursor-style-blink = false
+
+# shell
+shell-integration = "fish"
+shell-integration-features = no-cursor
+
+# background
+background = "#000000"
+background-opacity = 0.8
+background-blur = true
+unfocused-split-opacity = 1
+
+# default shell-integration
+command = /opt/homebrew/bin/fish --login --interactive
+
+
+#split
+split-divider-color="#555555"
+
+
+#window
+window-padding-x = 4
+window-padding-y = 4
+window-padding-balance = true
