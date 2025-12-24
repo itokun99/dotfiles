@@ -2,6 +2,10 @@
 # font
 font-family = "ComicShannsMono Nerd Font"
 font-size = 14
+font-thicken = true
+font-thicken-strength = 8
+adjust-font-baseline = 0
+adjust-cell-height = 12
 
 # cursor
 cursor-style = "block"
@@ -13,9 +17,13 @@ shell-integration-features = no-cursor
 
 # background
 background = "#000000"
-background-opacity = 0.8
+background-opacity = 1
 background-blur = true
 unfocused-split-opacity = 1
+background-image = "~/Pictures/anime-wallpapers/anime-girl-supra.png"
+background-image-opacity = 0.15
+background-image-fit = "cover"
+background-image-position = "center"
 
 # default shell-integration
 command = /opt/homebrew/bin/fish --login --interactive

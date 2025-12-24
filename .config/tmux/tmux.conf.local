@@ -89,12 +89,12 @@ tmux_conf_theme=enabled
 tmux_conf_theme_colour_1="#080808"    # dark gray
 tmux_conf_theme_colour_2="#303030"    # gray
 tmux_conf_theme_colour_3="#8a8a8a"    # light gray
-tmux_conf_theme_colour_4="#00afff"    # light blue
-tmux_conf_theme_colour_5="#ffff00"    # yellow
+tmux_conf_theme_colour_4="#7C00FE"    # light blue
+tmux_conf_theme_colour_5="#7C00FE"    # yellow
 tmux_conf_theme_colour_6="#080808"    # dark gray
 tmux_conf_theme_colour_7="#e4e4e4"    # white
 tmux_conf_theme_colour_8="#080808"    # dark gray
-tmux_conf_theme_colour_9="#ffff00"    # yellow
+tmux_conf_theme_colour_9="#7C00FE"    # yellow
 tmux_conf_theme_colour_10="#ff00af"   # pink
 tmux_conf_theme_colour_11="#5fff00"   # green
 tmux_conf_theme_colour_12="#8a8a8a"   # light gray
@@ -141,10 +141,10 @@ tmux_conf_theme_focused_pane_bg="$tmux_conf_theme_colour_2"
 tmux_conf_theme_pane_border_style=thin
 
 # pane borders colours:
-tmux_conf_theme_pane_border="$tmux_conf_theme_colour_2"
+tmux_conf_theme_pane_border="$tmux_conf_theme_colour_3"
 tmux_conf_theme_pane_active_border="$tmux_conf_theme_colour_7"
 %if #{>=:#{version},3.2}
-tmux_conf_theme_pane_active_border="#{?pane_in_mode,$tmux_conf_theme_colour_9,#{?synchronize-panes,$tmux_conf_theme_colour_16,$tmux_conf_theme_colour_4}}"
+tmux_conf_theme_pane_active_border="#{?pane_in_mode,$tmux_conf_theme_colour_9,#{?synchronize-panes,$tmux_conf_theme_colour_16,$tmux_conf_theme_colour_7}}"
 %endif
 
 # pane indicator colours (when you hit <prefix> + q)
@@ -153,18 +153,18 @@ tmux_conf_theme_pane_active_indicator="$tmux_conf_theme_colour_4"
 
 # status line style
 tmux_conf_theme_message_fg="$tmux_conf_theme_colour_7"
-# tmux_conf_theme_message_bg="$tmux_conf_theme_colour_5"
-tmux_conf_theme_message_bg="default"
+tmux_conf_theme_message_bg="$tmux_conf_theme_colour_5"
+# tmux_conf_theme_message_bg="default"
 tmux_conf_theme_message_attr="bold"
 
 # status line command style (<prefix> : Escape)
-tmux_conf_theme_message_command_fg="$tmux_conf_theme_colour_4"
+tmux_conf_theme_message_command_fg="$tmux_conf_theme_colour_7"
 tmux_conf_theme_message_command_bg="default"
 tmux_conf_theme_message_command_attr="bold"
 
 # window modes style
 tmux_conf_theme_mode_fg="$tmux_conf_theme_colour_7"
-tmux_conf_theme_mode_bg="default"
+tmux_conf_theme_mode_bg="$tmux_conf_theme_colour_4"
 tmux_conf_theme_mode_attr="bold"
 
 # status line style

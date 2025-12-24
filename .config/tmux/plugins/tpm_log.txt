@@ -1,0 +1,1212 @@
+[2025-10-15 18:37:41.699]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-15 18:37:41.713]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-15 18:37:42.896]	Installing "tmux-copycat"
+[2025-10-15 18:37:42.907]	Installing "tmux-cpu"
+[2025-10-15 18:37:44.719]	  "tmux-copycat" download success
+[2025-10-15 18:37:44.730]	  "tmux-cpu" download success
+[2025-10-15 18:37:45.069]	Done.
+
+[2025-10-15 18:40:30.357]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-15 18:40:30.369]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-15 18:40:31.239]	Already installed "tmux-copycat"
+[2025-10-15 18:40:31.252]	Already installed "tmux-cpu"
+[2025-10-15 18:40:31.266]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-15 18:40:32.524]	Updating all plugins!
+[2025-10-15 18:40:32.535]	
+[2025-10-15 18:40:33.747]	  "tmux-copycat" update success
+[2025-10-15 18:40:33.807]	    | Already up to date.
+[2025-10-15 18:40:33.866]	  "tmux-cpu" update success
+[2025-10-15 18:40:33.917]	    | Already up to date.
+[2025-10-15 18:40:33.931]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-15 18:40:35.566]	Done.
+
+[2025-10-15 23:23:13.462]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-15 23:23:13.474]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-15 23:23:13.952]	Already installed "tmux-copycat"
+[2025-10-15 23:23:13.963]	Already installed "tmux-cpu"
+[2025-10-15 23:23:13.974]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-15 23:23:14.141]	Updating all plugins!
+[2025-10-15 23:23:14.152]	
+[2025-10-15 23:23:15.128]	  "tmux-copycat" update success
+[2025-10-15 23:23:15.138]	  "tmux-cpu" update success
+[2025-10-15 23:23:15.148]	    | Already up to date.
+[2025-10-15 23:23:15.158]	    | Already up to date.
+[2025-10-15 23:23:15.169]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-15 23:23:15.307]	Done.
+
+[2025-10-15 23:36:53.371]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-15 23:36:53.383]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-15 23:36:53.611]	Already installed "tmux-copycat"
+[2025-10-15 23:36:53.623]	Already installed "tmux-cpu"
+[2025-10-15 23:36:53.635]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-15 23:36:53.779]	Updating all plugins!
+[2025-10-15 23:36:53.790]	
+[2025-10-15 23:36:54.731]	  "tmux-copycat" update success
+[2025-10-15 23:36:54.742]	  "tmux-cpu" update success
+[2025-10-15 23:36:54.752]	    | Already up to date.
+[2025-10-15 23:36:54.762]	    | Already up to date.
+[2025-10-15 23:36:54.773]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-15 23:36:54.894]	Done.
+
+[2025-10-15 23:37:01.730]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-15 23:37:01.741]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-15 23:37:01.925]	Already installed "tmux-cpu"
+[2025-10-15 23:37:01.935]	Already installed "tmux-copycat"
+[2025-10-15 23:37:01.946]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-15 23:37:02.094]	Updating all plugins!
+[2025-10-15 23:37:02.106]	
+[2025-10-15 23:37:03.049]	  "tmux-copycat" update success
+[2025-10-15 23:37:03.060]	  "tmux-cpu" update success
+[2025-10-15 23:37:03.069]	    | Already up to date.
+[2025-10-15 23:37:03.079]	    | Already up to date.
+[2025-10-15 23:37:03.091]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-15 23:37:03.211]	Done.
+
+[2025-10-17 05:34:27.669]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-17 05:34:27.681]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-17 05:34:27.881]	Already installed "tmux-cpu"
+[2025-10-17 05:34:27.893]	Already installed "tmux-copycat"
+[2025-10-17 05:34:27.907]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-17 05:34:28.319]	Updating all plugins!
+[2025-10-17 05:34:28.329]	
+[2025-10-17 05:34:29.225]	  "tmux-copycat" update success
+[2025-10-17 05:34:29.236]	  "tmux-cpu" update success
+[2025-10-17 05:34:29.246]	    | Already up to date.
+[2025-10-17 05:34:29.257]	    | Already up to date.
+[2025-10-17 05:34:29.269]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-17 05:34:29.412]	Done.
+
+[2025-10-17 11:55:08.321]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-17 11:55:08.333]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-17 11:55:08.536]	Already installed "tmux-cpu"
+[2025-10-17 11:55:08.547]	Already installed "tmux-copycat"
+[2025-10-17 11:55:08.559]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-17 11:55:08.710]	Updating all plugins!
+[2025-10-17 11:55:08.721]	
+[2025-10-17 11:55:09.661]	  "tmux-cpu" update success
+[2025-10-17 11:55:09.672]	  "tmux-copycat" update success
+[2025-10-17 11:55:09.682]	    | Already up to date.
+[2025-10-17 11:55:09.693]	    | Already up to date.
+[2025-10-17 11:55:09.705]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-17 11:55:09.845]	Done.
+
+[2025-10-17 23:31:03.780]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-17 23:31:03.792]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-17 23:31:04.206]	Already installed "tmux-copycat"
+[2025-10-17 23:31:04.216]	Already installed "tmux-cpu"
+[2025-10-17 23:31:04.229]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-17 23:31:04.581]	Updating all plugins!
+[2025-10-17 23:31:04.594]	
+[2025-10-17 23:31:05.501]	  "tmux-copycat" update success
+[2025-10-17 23:31:05.512]	  "tmux-cpu" update success
+[2025-10-17 23:31:05.522]	    | Already up to date.
+[2025-10-17 23:31:05.532]	    | Already up to date.
+[2025-10-17 23:31:05.543]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-17 23:31:05.669]	Done.
+
+[2025-10-18 00:21:32.436]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-18 00:21:32.448]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-18 00:21:32.854]	Already installed "tmux-cpu"
+[2025-10-18 00:21:32.865]	Already installed "tmux-copycat"
+[2025-10-18 00:21:32.876]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-18 00:21:33.229]	Updating all plugins!
+[2025-10-18 00:21:33.241]	
+[2025-10-18 00:21:34.156]	  "tmux-cpu" update success
+[2025-10-18 00:21:34.167]	  "tmux-copycat" update success
+[2025-10-18 00:21:34.177]	    | Already up to date.
+[2025-10-18 00:21:34.187]	    | Already up to date.
+[2025-10-18 00:21:34.197]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-18 00:21:34.325]	Done.
+
+[2025-10-18 23:28:14.331]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-18 23:28:14.344]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-18 23:28:15.321]	Already installed "tmux-cpu"
+[2025-10-18 23:28:15.331]	Already installed "tmux-copycat"
+[2025-10-18 23:28:15.342]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-18 23:28:16.084]	Updating all plugins!
+[2025-10-18 23:28:16.096]	
+[2025-10-18 23:28:17.404]	  "tmux-copycat" update success
+[2025-10-18 23:28:17.451]	    | Already up to date.
+[2025-10-18 23:28:17.529]	  "tmux-cpu" update success
+[2025-10-18 23:28:17.575]	    | Already up to date.
+[2025-10-18 23:28:17.587]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-18 23:28:18.501]	Done.
+
+[2025-10-18 23:41:06.708]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-18 23:41:06.720]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-18 23:41:06.946]	Already installed "tmux-cpu"
+[2025-10-18 23:41:06.958]	Already installed "tmux-copycat"
+[2025-10-18 23:41:06.970]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-18 23:41:07.339]	Updating all plugins!
+[2025-10-18 23:41:07.351]	
+[2025-10-18 23:41:08.227]	  "tmux-copycat" update success
+[2025-10-18 23:41:08.239]	    | Already up to date.
+[2025-10-18 23:41:08.305]	  "tmux-cpu" update success
+[2025-10-18 23:41:08.316]	    | Already up to date.
+[2025-10-18 23:41:08.328]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-18 23:41:08.471]	Done.
+
+[2025-10-18 23:44:42.262]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-18 23:44:42.274]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-18 23:44:42.638]	Already installed "tmux-copycat"
+[2025-10-18 23:44:42.649]	Already installed "tmux-cpu"
+[2025-10-18 23:44:42.661]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-18 23:44:42.824]	Updating all plugins!
+[2025-10-18 23:44:42.835]	
+[2025-10-18 23:44:43.751]	  "tmux-copycat" update success
+[2025-10-18 23:44:43.762]	  "tmux-cpu" update success
+[2025-10-18 23:44:43.773]	    | Already up to date.
+[2025-10-18 23:44:43.784]	    | Already up to date.
+[2025-10-18 23:44:43.796]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-18 23:44:43.930]	Done.
+
+[2025-10-19 00:14:05.691]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-19 00:14:05.704]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-19 00:14:05.955]	Already installed "tmux-cpu"
+[2025-10-19 00:14:05.966]	Already installed "tmux-copycat"
+[2025-10-19 00:14:05.979]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-19 00:14:06.425]	Updating all plugins!
+[2025-10-19 00:14:06.437]	
+[2025-10-19 00:14:07.302]	  "tmux-copycat" update success
+[2025-10-19 00:14:07.316]	    | Already up to date.
+[2025-10-19 00:14:07.327]	  "tmux-cpu" update success
+[2025-10-19 00:14:07.338]	    | Already up to date.
+[2025-10-19 00:14:07.350]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-19 00:14:07.491]	Done.
+
+[2025-10-19 23:03:49.326]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-19 23:03:49.338]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-19 23:03:50.461]	Already installed "tmux-copycat"
+[2025-10-19 23:03:50.473]	Already installed "tmux-cpu"
+[2025-10-19 23:03:50.488]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-19 23:03:51.411]	Updating all plugins!
+[2025-10-19 23:03:51.424]	
+[2025-10-19 23:03:52.731]	  "tmux-copycat" update success
+[2025-10-19 23:03:52.764]	    | Already up to date.
+[2025-10-19 23:03:52.813]	  "tmux-cpu" update success
+[2025-10-19 23:03:52.843]	    | Already up to date.
+[2025-10-19 23:03:52.855]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-19 23:03:53.891]	Done.
+
+[2025-10-19 23:07:39.608]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-19 23:07:39.621]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-19 23:07:39.860]	Already installed "tmux-copycat"
+[2025-10-19 23:07:39.871]	Already installed "tmux-cpu"
+[2025-10-19 23:07:39.883]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-19 23:07:40.069]	Updating all plugins!
+[2025-10-19 23:07:40.081]	
+[2025-10-19 23:07:40.980]	  "tmux-copycat" update success
+[2025-10-19 23:07:40.991]	  "tmux-cpu" update success
+[2025-10-19 23:07:41.002]	    | Already up to date.
+[2025-10-19 23:07:41.013]	    | Already up to date.
+[2025-10-19 23:07:41.026]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-19 23:07:41.159]	Done.
+
+[2025-10-19 23:11:23.181]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-19 23:11:23.193]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-19 23:11:23.804]	Already installed "tmux-cpu"
+[2025-10-19 23:11:23.815]	Already installed "tmux-copycat"
+[2025-10-19 23:11:23.828]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-19 23:11:24.243]	Updating all plugins!
+[2025-10-19 23:11:24.255]	
+[2025-10-19 23:11:25.185]	  "tmux-cpu" update success
+[2025-10-19 23:11:25.197]	  "tmux-copycat" update success
+[2025-10-19 23:11:25.208]	    | Already up to date.
+[2025-10-19 23:11:25.220]	    | Already up to date.
+[2025-10-19 23:11:25.232]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-19 23:11:25.355]	Done.
+
+[2025-10-20 00:18:36.753]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 00:18:36.766]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 00:18:37.019]	Already installed "tmux-cpu"
+[2025-10-20 00:18:37.031]	Already installed "tmux-copycat"
+[2025-10-20 00:18:37.044]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 00:18:37.473]	Updating all plugins!
+[2025-10-20 00:18:37.485]	
+[2025-10-20 00:18:38.472]	  "tmux-cpu" update success
+[2025-10-20 00:18:38.484]	    | Already up to date.
+[2025-10-20 00:18:38.544]	  "tmux-copycat" update success
+[2025-10-20 00:18:38.554]	    | Already up to date.
+[2025-10-20 00:18:38.566]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 00:18:38.713]	Done.
+
+[2025-10-20 06:12:40.990]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 06:12:41.002]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 06:12:41.519]	Already installed "tmux-copycat"
+[2025-10-20 06:12:41.531]	Already installed "tmux-cpu"
+[2025-10-20 06:12:41.543]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 06:12:41.725]	Updating all plugins!
+[2025-10-20 06:12:41.737]	
+[2025-10-20 06:12:42.604]	  "tmux-cpu" update success
+[2025-10-20 06:12:42.615]	  "tmux-copycat" update success
+[2025-10-20 06:12:42.627]	    | Already up to date.
+[2025-10-20 06:12:42.638]	    | Already up to date.
+[2025-10-20 06:12:42.651]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 06:12:42.788]	Done.
+
+[2025-10-20 06:13:52.404]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 06:13:52.416]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 06:13:53.273]	Already installed "tmux-cpu"
+[2025-10-20 06:13:53.284]	Already installed "tmux-copycat"
+[2025-10-20 06:13:53.296]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 06:13:53.907]	Updating all plugins!
+[2025-10-20 06:13:53.918]	
+[2025-10-20 06:13:55.252]	  "tmux-copycat" update success
+[2025-10-20 06:13:55.264]	  "tmux-cpu" update success
+[2025-10-20 06:13:55.295]	    | Already up to date.
+[2025-10-20 06:13:55.307]	    | Already up to date.
+[2025-10-20 06:13:55.318]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 06:13:56.375]	Done.
+
+[2025-10-20 06:18:28.856]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 06:18:28.868]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 06:18:30.084]	Already installed "tmux-cpu"
+[2025-10-20 06:18:30.098]	Already installed "tmux-copycat"
+[2025-10-20 06:18:30.112]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 06:18:30.841]	Updating all plugins!
+[2025-10-20 06:18:30.853]	
+[2025-10-20 06:18:32.159]	  "tmux-copycat" update success
+[2025-10-20 06:18:32.193]	    | Already up to date.
+[2025-10-20 06:18:32.205]	  "tmux-cpu" update success
+[2025-10-20 06:18:32.233]	    | Already up to date.
+[2025-10-20 06:18:32.245]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 06:18:33.187]	Done.
+
+[2025-10-20 06:19:29.471]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 06:19:29.484]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 06:19:29.712]	Already installed "tmux-copycat"
+[2025-10-20 06:19:29.727]	Already installed "tmux-cpu"
+[2025-10-20 06:19:29.741]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 06:19:29.920]	Updating all plugins!
+[2025-10-20 06:19:29.930]	
+[2025-10-20 06:19:30.751]	  "tmux-copycat" update success
+[2025-10-20 06:19:30.762]	    | Already up to date.
+[2025-10-20 06:19:30.789]	  "tmux-cpu" update success
+[2025-10-20 06:19:30.800]	    | Already up to date.
+[2025-10-20 06:19:30.813]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 06:19:30.953]	Done.
+
+[2025-10-20 06:26:40.759]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 06:26:40.772]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 06:26:41.002]	Already installed "tmux-cpu"
+[2025-10-20 06:26:41.014]	Already installed "tmux-copycat"
+[2025-10-20 06:26:41.027]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 06:26:41.202]	Updating all plugins!
+[2025-10-20 06:26:41.213]	
+[2025-10-20 06:26:42.018]	  "tmux-copycat" update success
+[2025-10-20 06:26:42.030]	    | Already up to date.
+[2025-10-20 06:26:42.061]	  "tmux-cpu" update success
+[2025-10-20 06:26:42.073]	    | Already up to date.
+[2025-10-20 06:26:42.085]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 06:26:42.217]	Done.
+
+[2025-10-20 06:37:26.322]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 06:37:26.334]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 06:37:26.559]	Already installed "tmux-copycat"
+[2025-10-20 06:37:26.571]	Already installed "tmux-cpu"
+[2025-10-20 06:37:26.584]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 06:37:27.110]	Updating all plugins!
+[2025-10-20 06:37:27.122]	
+[2025-10-20 06:37:27.938]	  "tmux-copycat" update success
+[2025-10-20 06:37:27.951]	    | Already up to date.
+[2025-10-20 06:37:27.962]	  "tmux-cpu" update success
+[2025-10-20 06:37:27.974]	    | Already up to date.
+[2025-10-20 06:37:27.986]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 06:37:28.118]	Done.
+
+[2025-10-20 07:18:58.341]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 07:18:58.354]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 07:18:59.039]	Already installed "tmux-copycat"
+[2025-10-20 07:18:59.050]	Already installed "tmux-cpu"
+[2025-10-20 07:18:59.062]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 07:18:59.660]	Updating all plugins!
+[2025-10-20 07:18:59.671]	
+[2025-10-20 07:19:00.903]	  "tmux-copycat" update success
+[2025-10-20 07:19:00.935]	    | Already up to date.
+[2025-10-20 07:19:00.978]	  "tmux-cpu" update success
+[2025-10-20 07:19:01.009]	    | Already up to date.
+[2025-10-20 07:19:01.020]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 07:19:02.029]	Done.
+
+[2025-10-20 12:53:44.318]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 12:53:44.333]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 12:53:45.118]	Already installed "tmux-copycat"
+[2025-10-20 12:53:45.130]	Already installed "tmux-cpu"
+[2025-10-20 12:53:45.142]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 12:53:45.823]	Updating all plugins!
+[2025-10-20 12:53:45.836]	
+[2025-10-20 12:53:47.524]	  "tmux-copycat" update success
+[2025-10-20 12:53:47.567]	    | Already up to date.
+[2025-10-20 12:53:47.774]	  "tmux-cpu" update success
+[2025-10-20 12:53:47.809]	    | Already up to date.
+[2025-10-20 12:53:47.823]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 12:53:48.860]	Done.
+
+[2025-10-20 17:48:52.933]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 17:48:52.945]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 17:48:53.766]	Already installed "tmux-cpu"
+[2025-10-20 17:48:53.778]	Already installed "tmux-copycat"
+[2025-10-20 17:48:53.791]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 17:48:54.267]	Updating all plugins!
+[2025-10-20 17:48:54.278]	
+[2025-10-20 17:48:56.684]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 17:48:59.092]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-10-20 17:48:59.106]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-10-20 17:48:59.119]	Aborting.
+[2025-10-20 17:48:59.589]	Done.
+
+[2025-10-20 17:49:08.693]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-20 17:49:08.705]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-20 17:49:09.538]	Already installed "tmux-copycat"
+[2025-10-20 17:49:09.551]	Already installed "tmux-cpu"
+[2025-10-20 17:49:09.565]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-20 17:49:10.029]	Updating all plugins!
+[2025-10-20 17:49:10.042]	
+[2025-10-20 17:49:11.396]	  "tmux-copycat" update success
+[2025-10-20 17:49:11.424]	  "tmux-cpu" update success
+[2025-10-20 17:49:11.439]	    | Already up to date.
+[2025-10-20 17:49:11.464]	    | Already up to date.
+[2025-10-20 17:49:11.476]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-20 17:49:12.521]	Done.
+
+[2025-10-21 13:55:10.046]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 13:55:10.058]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 13:55:12.956]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-10-21 13:55:12.970]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-10-21 13:55:12.983]	Aborting.
+[2025-10-21 13:55:13.003]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 13:55:16.104]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-10-21 13:55:16.117]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-10-21 13:55:16.130]	Aborting.
+[2025-10-21 13:55:16.149]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 13:55:18.540]	unknown variable: TMUX_PLUGIN_MANAGER_PATH
+[2025-10-21 13:55:18.553]	FATAL: Tmux Plugin Manager not configured in tmux.conf
+[2025-10-21 13:55:18.567]	Aborting.
+[2025-10-21 13:55:19.029]	Done.
+
+[2025-10-21 13:56:21.901]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 13:56:21.913]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 13:56:22.732]	Already installed "tmux-copycat"
+[2025-10-21 13:56:22.743]	Already installed "tmux-cpu"
+[2025-10-21 13:56:22.756]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 13:56:23.357]	Updating all plugins!
+[2025-10-21 13:56:23.369]	
+[2025-10-21 13:56:24.821]	  "tmux-copycat" update success
+[2025-10-21 13:56:24.867]	    | Already up to date.
+[2025-10-21 13:56:25.157]	  "tmux-cpu" update success
+[2025-10-21 13:56:25.202]	    | Already up to date.
+[2025-10-21 13:56:25.213]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 13:56:26.210]	Done.
+
+[2025-10-21 13:59:44.663]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 13:59:44.675]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 13:59:45.530]	Already installed "tmux-copycat"
+[2025-10-21 13:59:45.542]	Already installed "tmux-cpu"
+[2025-10-21 13:59:45.556]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 13:59:46.014]	Updating all plugins!
+[2025-10-21 13:59:46.026]	
+[2025-10-21 13:59:47.475]	  "tmux-copycat" update success
+[2025-10-21 13:59:47.513]	    | Already up to date.
+[2025-10-21 13:59:47.805]	  "tmux-cpu" update success
+[2025-10-21 13:59:47.861]	    | Already up to date.
+[2025-10-21 13:59:47.876]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 13:59:48.874]	Done.
+
+[2025-10-21 14:04:53.051]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 14:04:53.063]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 14:04:54.071]	Already installed "tmux-copycat"
+[2025-10-21 14:04:54.085]	Already installed "tmux-cpu"
+[2025-10-21 14:04:54.100]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 14:04:54.792]	Updating all plugins!
+[2025-10-21 14:04:54.804]	
+[2025-10-21 14:04:56.045]	  "tmux-copycat" update success
+[2025-10-21 14:04:56.085]	    | Already up to date.
+[2025-10-21 14:04:56.569]	  "tmux-cpu" update success
+[2025-10-21 14:04:56.613]	    | Already up to date.
+[2025-10-21 14:04:56.627]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 14:04:57.540]	Done.
+
+[2025-10-21 14:51:42.561]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 14:51:42.573]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 14:51:43.572]	Already installed "tmux-copycat"
+[2025-10-21 14:51:43.584]	Already installed "tmux-cpu"
+[2025-10-21 14:51:43.599]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 14:51:44.328]	Updating all plugins!
+[2025-10-21 14:51:44.341]	
+[2025-10-21 14:51:45.640]	  "tmux-cpu" update success
+[2025-10-21 14:51:45.652]	  "tmux-copycat" update success
+[2025-10-21 14:51:45.685]	    | Already up to date.
+[2025-10-21 14:51:45.695]	    | Already up to date.
+[2025-10-21 14:51:45.707]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 14:51:46.737]	Done.
+
+[2025-10-21 15:02:14.672]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 15:02:14.684]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:02:15.669]	Already installed "tmux-cpu"
+[2025-10-21 15:02:15.682]	Already installed "tmux-copycat"
+[2025-10-21 15:02:15.696]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:02:16.427]	Updating all plugins!
+[2025-10-21 15:02:16.440]	
+[2025-10-21 15:02:17.717]	  "tmux-copycat" update success
+[2025-10-21 15:02:17.760]	    | Already up to date.
+[2025-10-21 15:02:17.774]	  "tmux-cpu" update success
+[2025-10-21 15:02:17.813]	    | Already up to date.
+[2025-10-21 15:02:17.825]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:02:18.825]	Done.
+
+[2025-10-21 15:07:00.701]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 15:07:00.713]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:07:01.521]	Already installed "tmux-copycat"
+[2025-10-21 15:07:01.534]	Already installed "tmux-cpu"
+[2025-10-21 15:07:01.548]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:07:02.043]	Updating all plugins!
+[2025-10-21 15:07:02.055]	
+[2025-10-21 15:07:03.358]	  "tmux-copycat" update success
+[2025-10-21 15:07:03.399]	    | Already up to date.
+[2025-10-21 15:07:03.416]	  "tmux-cpu" update success
+[2025-10-21 15:07:03.458]	    | Already up to date.
+[2025-10-21 15:07:03.470]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:07:04.595]	Done.
+
+[2025-10-21 15:38:55.603]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 15:38:55.617]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 15:38:56.292]	Already installed "tmux-cpu"
+[2025-10-21 15:38:56.303]	Already installed "tmux-copycat"
+[2025-10-21 15:38:56.315]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 15:38:56.886]	Updating all plugins!
+[2025-10-21 15:38:56.897]	
+[2025-10-21 15:38:58.142]	  "tmux-copycat" update success
+[2025-10-21 15:38:58.192]	    | Already up to date.
+[2025-10-21 15:38:58.213]	  "tmux-cpu" update success
+[2025-10-21 15:38:58.250]	    | Already up to date.
+[2025-10-21 15:38:58.265]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 15:38:59.184]	Done.
+
+[2025-10-21 17:25:10.235]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-21 17:25:10.247]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-21 17:25:11.280]	Already installed "tmux-copycat"
+[2025-10-21 17:25:11.292]	Already installed "tmux-cpu"
+[2025-10-21 17:25:11.307]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-21 17:25:12.110]	Updating all plugins!
+[2025-10-21 17:25:12.122]	
+[2025-10-21 17:25:13.340]	  "tmux-copycat" update success
+[2025-10-21 17:25:13.383]	    | Already up to date.
+[2025-10-21 17:25:13.394]	  "tmux-cpu" update success
+[2025-10-21 17:25:13.429]	    | Already up to date.
+[2025-10-21 17:25:13.440]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-21 17:25:14.505]	Done.
+
+[2025-10-22 09:12:08.716]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-22 09:12:08.730]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-22 09:12:09.547]	Already installed "tmux-cpu"
+[2025-10-22 09:12:09.560]	Already installed "tmux-copycat"
+[2025-10-22 09:12:09.574]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-22 09:12:10.089]	Updating all plugins!
+[2025-10-22 09:12:10.101]	
+[2025-10-22 09:12:11.514]	  "tmux-copycat" update success
+[2025-10-22 09:12:11.536]	  "tmux-cpu" update success
+[2025-10-22 09:12:11.558]	    | Already up to date.
+[2025-10-22 09:12:11.577]	    | Already up to date.
+[2025-10-22 09:12:11.591]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-22 09:12:12.631]	Done.
+
+[2025-10-22 14:27:31.507]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-22 14:27:31.520]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-22 14:27:32.454]	Already installed "tmux-copycat"
+[2025-10-22 14:27:32.467]	Already installed "tmux-cpu"
+[2025-10-22 14:27:32.481]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-22 14:27:32.973]	Updating all plugins!
+[2025-10-22 14:27:32.985]	
+[2025-10-22 14:27:34.261]	  "tmux-copycat" update success
+[2025-10-22 14:27:34.303]	    | Already up to date.
+[2025-10-22 14:27:34.362]	  "tmux-cpu" update success
+[2025-10-22 14:27:34.402]	    | Already up to date.
+[2025-10-22 14:27:34.416]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-22 14:27:35.557]	Done.
+
+[2025-10-24 06:40:43.723]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-24 06:40:43.735]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-24 06:40:44.567]	Already installed "tmux-copycat"
+[2025-10-24 06:40:44.579]	Already installed "tmux-cpu"
+[2025-10-24 06:40:44.593]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-24 06:40:45.071]	Updating all plugins!
+[2025-10-24 06:40:45.083]	
+[2025-10-24 06:40:46.374]	  "tmux-copycat" update success
+[2025-10-24 06:40:46.390]	  "tmux-cpu" update success
+[2025-10-24 06:40:46.408]	    | Already up to date.
+[2025-10-24 06:40:46.422]	    | Already up to date.
+[2025-10-24 06:40:46.433]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-24 06:40:47.517]	Done.
+
+[2025-10-26 11:26:15.553]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-26 11:26:15.565]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-26 11:26:16.338]	Already installed "tmux-cpu"
+[2025-10-26 11:26:16.350]	Already installed "tmux-copycat"
+[2025-10-26 11:26:16.363]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-26 11:26:16.800]	Updating all plugins!
+[2025-10-26 11:26:16.812]	
+[2025-10-26 11:26:18.132]	  "tmux-copycat" update success
+[2025-10-26 11:26:18.144]	  "tmux-cpu" update success
+[2025-10-26 11:26:18.180]	    | Already up to date.
+[2025-10-26 11:26:18.191]	    | Already up to date.
+[2025-10-26 11:26:18.203]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-26 11:26:19.251]	Done.
+
+[2025-10-27 17:04:43.010]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-27 17:04:43.023]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-27 17:04:43.997]	Already installed "tmux-copycat"
+[2025-10-27 17:04:44.007]	Already installed "tmux-cpu"
+[2025-10-27 17:04:44.019]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-27 17:04:44.875]	Updating all plugins!
+[2025-10-27 17:04:44.887]	
+[2025-10-27 17:04:46.197]	  "tmux-copycat" update success
+[2025-10-27 17:04:46.240]	    | Already up to date.
+[2025-10-27 17:04:46.252]	  "tmux-cpu" update success
+[2025-10-27 17:04:46.287]	    | Already up to date.
+[2025-10-27 17:04:46.299]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-27 17:04:47.283]	Done.
+
+[2025-10-29 12:32:48.935]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-29 12:32:48.946]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-29 12:32:49.697]	Already installed "tmux-copycat"
+[2025-10-29 12:32:49.708]	Already installed "tmux-cpu"
+[2025-10-29 12:32:49.719]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-29 12:32:50.276]	Updating all plugins!
+[2025-10-29 12:32:50.287]	
+[2025-10-29 12:32:51.568]	  "tmux-copycat" update success
+[2025-10-29 12:32:51.623]	    | Already up to date.
+[2025-10-29 12:32:51.636]	  "tmux-cpu" update success
+[2025-10-29 12:32:51.674]	    | Already up to date.
+[2025-10-29 12:32:51.689]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-29 12:32:52.645]	Done.
+
+[2025-10-30 15:13:04.787]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-30 15:13:04.799]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-30 15:13:05.971]	Already installed "tmux-cpu"
+[2025-10-30 15:13:05.983]	Already installed "tmux-copycat"
+[2025-10-30 15:13:05.995]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-30 15:13:06.786]	Updating all plugins!
+[2025-10-30 15:13:06.798]	
+[2025-10-30 15:13:09.530]	  "tmux-cpu" update success
+[2025-10-30 15:13:09.541]	  "tmux-copycat" update success
+[2025-10-30 15:13:09.575]	    | Already up to date.
+[2025-10-30 15:13:09.586]	    | Already up to date.
+[2025-10-30 15:13:09.598]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-30 15:13:10.618]	Done.
+
+[2025-10-31 14:42:08.268]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-10-31 14:42:08.282]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-10-31 14:42:09.438]	Already installed "tmux-copycat"
+[2025-10-31 14:42:09.450]	Already installed "tmux-cpu"
+[2025-10-31 14:42:09.461]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-10-31 14:42:10.303]	Updating all plugins!
+[2025-10-31 14:42:10.316]	
+[2025-10-31 14:42:11.934]	  "tmux-copycat" update success
+[2025-10-31 14:42:11.967]	  "tmux-cpu" update success
+[2025-10-31 14:42:11.979]	    | Already up to date.
+[2025-10-31 14:42:12.010]	    | Already up to date.
+[2025-10-31 14:42:12.024]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-10-31 14:42:13.258]	Done.
+
+[2025-11-01 01:57:33.776]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-01 01:57:33.789]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-01 01:57:34.653]	Already installed "tmux-cpu"
+[2025-11-01 01:57:34.666]	Already installed "tmux-copycat"
+[2025-11-01 01:57:34.679]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-01 01:57:35.406]	Updating all plugins!
+[2025-11-01 01:57:35.419]	
+[2025-11-01 01:57:36.827]	  "tmux-copycat" update success
+[2025-11-01 01:57:36.884]	  "tmux-cpu" update success
+[2025-11-01 01:57:36.899]	    | Already up to date.
+[2025-11-01 01:57:36.942]	    | Already up to date.
+[2025-11-01 01:57:36.956]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-01 01:57:38.014]	Done.
+
+[2025-11-01 23:19:21.414]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-01 23:19:21.427]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-01 23:19:21.649]	Already installed "tmux-cpu"
+[2025-11-01 23:19:21.661]	Already installed "tmux-copycat"
+[2025-11-01 23:19:21.673]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-01 23:19:21.887]	Updating all plugins!
+[2025-11-01 23:19:21.900]	
+[2025-11-01 23:19:23.019]	  "tmux-cpu" update success
+[2025-11-01 23:19:23.031]	    | Already up to date.
+[2025-11-01 23:19:23.191]	  "tmux-copycat" update success
+[2025-11-01 23:19:23.203]	    | Already up to date.
+[2025-11-01 23:19:23.217]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-01 23:19:23.352]	Done.
+
+[2025-11-01 23:19:31.963]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-01 23:19:31.975]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-01 23:19:32.268]	Already installed "tmux-cpu"
+[2025-11-01 23:19:32.281]	Already installed "tmux-copycat"
+[2025-11-01 23:19:32.296]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-01 23:19:32.470]	Updating all plugins!
+[2025-11-01 23:19:32.482]	
+[2025-11-01 23:19:34.058]	  "tmux-copycat" update success
+[2025-11-01 23:19:34.069]	    | Already up to date.
+[2025-11-01 23:19:34.124]	  "tmux-cpu" update success
+[2025-11-01 23:19:34.136]	    | Already up to date.
+[2025-11-01 23:19:34.148]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-01 23:19:34.282]	Done.
+
+[2025-11-01 23:54:30.374]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-01 23:54:30.387]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-01 23:54:30.856]	Already installed "tmux-copycat"
+[2025-11-01 23:54:30.867]	Already installed "tmux-cpu"
+[2025-11-01 23:54:30.880]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-01 23:54:31.340]	Updating all plugins!
+[2025-11-01 23:54:31.352]	
+[2025-11-01 23:54:32.239]	  "tmux-copycat" update success
+[2025-11-01 23:54:32.250]	    | Already up to date.
+[2025-11-01 23:54:32.265]	  "tmux-cpu" update success
+[2025-11-01 23:54:32.277]	    | Already up to date.
+[2025-11-01 23:54:32.289]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-01 23:54:32.423]	Done.
+
+[2025-11-02 00:02:06.258]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-02 00:02:06.270]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-02 00:02:06.716]	Already installed "tmux-cpu"
+[2025-11-02 00:02:06.727]	Already installed "tmux-copycat"
+[2025-11-02 00:02:06.740]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-02 00:02:07.173]	Updating all plugins!
+[2025-11-02 00:02:07.185]	
+[2025-11-02 00:02:08.021]	  "tmux-copycat" update success
+[2025-11-02 00:02:08.032]	    | Already up to date.
+[2025-11-02 00:02:08.052]	  "tmux-cpu" update success
+[2025-11-02 00:02:08.064]	    | Already up to date.
+[2025-11-02 00:02:08.077]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-02 00:02:08.225]	Done.
+
+[2025-11-02 00:03:24.152]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-02 00:03:24.165]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-02 00:03:24.391]	Already installed "tmux-copycat"
+[2025-11-02 00:03:24.403]	Already installed "tmux-cpu"
+[2025-11-02 00:03:24.415]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-02 00:03:24.616]	Updating all plugins!
+[2025-11-02 00:03:24.627]	
+[2025-11-02 00:03:25.428]	  "tmux-copycat" update success
+[2025-11-02 00:03:25.441]	    | Already up to date.
+[2025-11-02 00:03:25.454]	  "tmux-cpu" update success
+[2025-11-02 00:03:25.466]	    | Already up to date.
+[2025-11-02 00:03:25.479]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-02 00:03:25.620]	Done.
+
+[2025-11-02 00:06:51.353]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-02 00:06:51.365]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-02 00:06:51.587]	Already installed "tmux-cpu"
+[2025-11-02 00:06:51.598]	Already installed "tmux-copycat"
+[2025-11-02 00:06:51.610]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-02 00:06:51.782]	Updating all plugins!
+[2025-11-02 00:06:51.794]	
+[2025-11-02 00:06:52.766]	  "tmux-copycat" update success
+[2025-11-02 00:06:52.778]	  "tmux-cpu" update success
+[2025-11-02 00:06:52.789]	    | Already up to date.
+[2025-11-02 00:06:52.800]	    | Already up to date.
+[2025-11-02 00:06:52.813]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-02 00:06:52.945]	Done.
+
+[2025-11-02 19:11:25.873]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-02 19:11:25.885]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-02 19:11:26.923]	Already installed "tmux-cpu"
+[2025-11-02 19:11:26.934]	Already installed "tmux-copycat"
+[2025-11-02 19:11:26.945]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-02 19:11:27.706]	Updating all plugins!
+[2025-11-02 19:11:27.718]	
+[2025-11-02 19:11:29.031]	  "tmux-copycat" update success
+[2025-11-02 19:11:29.068]	  "tmux-cpu" update success
+[2025-11-02 19:11:29.080]	    | Already up to date.
+[2025-11-02 19:11:29.116]	    | Already up to date.
+[2025-11-02 19:11:29.131]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-02 19:11:30.102]	Done.
+
+[2025-11-03 16:17:16.721]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-03 16:17:16.735]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-03 16:17:17.934]	Already installed "tmux-cpu"
+[2025-11-03 16:17:17.945]	Already installed "tmux-copycat"
+[2025-11-03 16:17:17.956]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-03 16:17:18.687]	Updating all plugins!
+[2025-11-03 16:17:18.700]	
+[2025-11-03 16:17:20.012]	  "tmux-copycat" update success
+[2025-11-03 16:17:20.047]	  "tmux-cpu" update success
+[2025-11-03 16:17:20.060]	    | Already up to date.
+[2025-11-03 16:17:20.090]	    | Already up to date.
+[2025-11-03 16:17:20.103]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-03 16:17:21.086]	Done.
+
+[2025-11-04 07:56:19.873]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-04 07:56:19.886]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-04 07:56:20.656]	Already installed "tmux-copycat"
+[2025-11-04 07:56:20.669]	Already installed "tmux-cpu"
+[2025-11-04 07:56:20.682]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-04 07:56:21.217]	Updating all plugins!
+[2025-11-04 07:56:21.230]	
+[2025-11-04 07:56:22.700]	  "tmux-cpu" update success
+[2025-11-04 07:56:22.712]	  "tmux-copycat" update success
+[2025-11-04 07:56:22.746]	    | Already up to date.
+[2025-11-04 07:56:22.758]	    | Already up to date.
+[2025-11-04 07:56:22.771]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-04 07:56:23.808]	Done.
+
+[2025-11-06 23:10:01.860]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-06 23:10:01.874]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-06 23:10:02.996]	Already installed "tmux-copycat"
+[2025-11-06 23:10:03.008]	Already installed "tmux-cpu"
+[2025-11-06 23:10:03.023]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-06 23:10:03.779]	Updating all plugins!
+[2025-11-06 23:10:03.792]	
+[2025-11-06 23:10:05.407]	  "tmux-copycat" update success
+[2025-11-06 23:10:05.420]	  "tmux-cpu" update success
+[2025-11-06 23:10:05.448]	    | Already up to date.
+[2025-11-06 23:10:05.461]	    | Already up to date.
+[2025-11-06 23:10:05.474]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-06 23:10:06.660]	Done.
+
+[2025-11-07 11:29:16.335]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-07 11:29:16.349]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-07 11:29:17.093]	Already installed "tmux-cpu"
+[2025-11-07 11:29:17.105]	Already installed "tmux-copycat"
+[2025-11-07 11:29:17.117]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-07 11:29:17.834]	Updating all plugins!
+[2025-11-07 11:29:17.846]	
+[2025-11-07 11:29:19.595]	  "tmux-copycat" update success
+[2025-11-07 11:29:19.639]	    | Already up to date.
+[2025-11-07 11:29:19.711]	  "tmux-cpu" update success
+[2025-11-07 11:29:19.747]	    | Already up to date.
+[2025-11-07 11:29:19.758]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-07 11:29:20.780]	Done.
+
+[2025-11-10 13:20:32.418]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-10 13:20:32.430]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-10 13:20:33.541]	Already installed "tmux-copycat"
+[2025-11-10 13:20:33.554]	Already installed "tmux-cpu"
+[2025-11-10 13:20:33.569]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-10 13:20:34.383]	Updating all plugins!
+[2025-11-10 13:20:34.395]	
+[2025-11-10 13:20:35.982]	  "tmux-copycat" update success
+[2025-11-10 13:20:36.019]	    | Already up to date.
+[2025-11-10 13:20:36.136]	  "tmux-cpu" update success
+[2025-11-10 13:20:36.176]	    | Already up to date.
+[2025-11-10 13:20:36.188]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-10 13:20:37.198]	Done.
+
+[2025-11-10 15:45:35.907]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-10 15:45:35.919]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-10 15:45:36.875]	Already installed "tmux-cpu"
+[2025-11-10 15:45:36.886]	Already installed "tmux-copycat"
+[2025-11-10 15:45:36.897]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-10 15:45:37.742]	Updating all plugins!
+[2025-11-10 15:45:37.754]	
+[2025-11-10 15:45:38.981]	  "tmux-copycat" update success
+[2025-11-10 15:45:39.029]	    | Already up to date.
+[2025-11-10 15:45:39.087]	  "tmux-cpu" update success
+[2025-11-10 15:45:39.125]	    | Already up to date.
+[2025-11-10 15:45:39.140]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-10 15:45:40.017]	Done.
+
+[2025-11-10 22:47:09.757]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-10 22:47:09.770]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-10 22:47:10.914]	Already installed "tmux-cpu"
+[2025-11-10 22:47:10.925]	Already installed "tmux-copycat"
+[2025-11-10 22:47:10.938]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-10 22:47:11.746]	Updating all plugins!
+[2025-11-10 22:47:11.758]	
+[2025-11-10 22:47:13.037]	  "tmux-copycat" update success
+[2025-11-10 22:47:13.078]	    | Already up to date.
+[2025-11-10 22:47:13.090]	  "tmux-cpu" update success
+[2025-11-10 22:47:13.123]	    | Already up to date.
+[2025-11-10 22:47:13.137]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-10 22:47:14.018]	Done.
+
+[2025-11-11 00:23:09.483]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-11 00:23:09.499]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-11 00:23:10.674]	Already installed "tmux-copycat"
+[2025-11-11 00:23:10.685]	Already installed "tmux-cpu"
+[2025-11-11 00:23:10.697]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-11 00:23:11.268]	Updating all plugins!
+[2025-11-11 00:23:11.280]	
+[2025-11-11 00:23:12.603]	  "tmux-copycat" update success
+[2025-11-11 00:23:12.642]	    | Already up to date.
+[2025-11-11 00:23:12.655]	  "tmux-cpu" update success
+[2025-11-11 00:23:12.689]	    | Already up to date.
+[2025-11-11 00:23:12.700]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-11 00:23:13.708]	Done.
+
+[2025-11-11 12:00:53.879]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-11 12:00:53.893]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-11 12:00:54.999]	Already installed "tmux-cpu"
+[2025-11-11 12:00:55.012]	Already installed "tmux-copycat"
+[2025-11-11 12:00:55.025]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-11 12:00:55.854]	Updating all plugins!
+[2025-11-11 12:00:55.867]	
+[2025-11-11 12:00:57.123]	  "tmux-copycat" update success
+[2025-11-11 12:00:57.163]	    | Already up to date.
+[2025-11-11 12:00:57.232]	  "tmux-cpu" update success
+[2025-11-11 12:00:57.270]	    | Already up to date.
+[2025-11-11 12:00:57.283]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-11 12:00:58.408]	Done.
+
+[2025-11-12 06:28:43.256]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-12 06:28:43.269]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-12 06:28:44.305]	Already installed "tmux-cpu"
+[2025-11-12 06:28:44.316]	Already installed "tmux-copycat"
+[2025-11-12 06:28:44.327]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-12 06:28:45.120]	Updating all plugins!
+[2025-11-12 06:28:45.132]	
+[2025-11-12 06:28:46.466]	  "tmux-cpu" update success
+[2025-11-12 06:28:46.479]	  "tmux-copycat" update success
+[2025-11-12 06:28:46.509]	    | Already up to date.
+[2025-11-12 06:28:46.519]	    | Already up to date.
+[2025-11-12 06:28:46.531]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-12 06:28:47.548]	Done.
+
+[2025-11-12 22:49:21.400]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-12 22:49:21.416]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-12 22:49:22.282]	Already installed "tmux-copycat"
+[2025-11-12 22:49:22.295]	Already installed "tmux-cpu"
+[2025-11-12 22:49:22.309]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-12 22:49:23.448]	Updating all plugins!
+[2025-11-12 22:49:23.464]	
+[2025-11-12 22:49:24.788]	  "tmux-copycat" update success
+[2025-11-12 22:49:24.826]	    | Already up to date.
+[2025-11-12 22:49:24.944]	  "tmux-cpu" update success
+[2025-11-12 22:49:24.977]	    | Already up to date.
+[2025-11-12 22:49:24.990]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-12 22:49:26.053]	Done.
+
+[2025-11-13 15:25:33.171]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-13 15:25:33.184]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-13 15:25:34.224]	Already installed "tmux-copycat"
+[2025-11-13 15:25:34.235]	Already installed "tmux-cpu"
+[2025-11-13 15:25:34.246]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-13 15:25:35.019]	Updating all plugins!
+[2025-11-13 15:25:35.032]	
+[2025-11-13 15:25:36.737]	  "tmux-copycat" update success
+[2025-11-13 15:25:36.749]	  "tmux-cpu" update success
+[2025-11-13 15:25:36.784]	    | Already up to date.
+[2025-11-13 15:25:36.795]	    | Already up to date.
+[2025-11-13 15:25:36.807]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-13 15:25:37.832]	Done.
+
+[2025-11-14 20:47:07.794]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-14 20:47:07.807]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-14 20:47:09.068]	Already installed "tmux-cpu"
+[2025-11-14 20:47:09.079]	Already installed "tmux-copycat"
+[2025-11-14 20:47:09.091]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-14 20:47:10.038]	Updating all plugins!
+[2025-11-14 20:47:10.050]	
+[2025-11-14 20:47:11.344]	  "tmux-cpu" update success
+[2025-11-14 20:47:11.356]	  "tmux-copycat" update success
+[2025-11-14 20:47:11.391]	    | Already up to date.
+[2025-11-14 20:47:11.403]	    | Already up to date.
+[2025-11-14 20:47:11.415]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-14 20:47:12.459]	Done.
+
+[2025-11-17 14:08:53.066]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-17 14:08:53.080]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-17 14:08:54.036]	Already installed "tmux-cpu"
+[2025-11-17 14:08:54.047]	Already installed "tmux-copycat"
+[2025-11-17 14:08:54.060]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-17 14:08:54.778]	Updating all plugins!
+[2025-11-17 14:08:54.790]	
+[2025-11-17 14:08:55.995]	  "tmux-copycat" update success
+[2025-11-17 14:08:56.027]	    | Already up to date.
+[2025-11-17 14:08:56.062]	  "tmux-cpu" update success
+[2025-11-17 14:08:56.096]	    | Already up to date.
+[2025-11-17 14:08:56.110]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-17 14:08:57.032]	Done.
+
+[2025-11-17 22:24:38.537]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-17 22:24:38.551]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-17 22:24:39.598]	Already installed "tmux-cpu"
+[2025-11-17 22:24:39.611]	Already installed "tmux-copycat"
+[2025-11-17 22:24:39.626]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-17 22:24:40.440]	Updating all plugins!
+[2025-11-17 22:24:40.453]	
+[2025-11-17 22:24:41.808]	  "tmux-copycat" update success
+[2025-11-17 22:24:41.819]	  "tmux-cpu" update success
+[2025-11-17 22:24:41.854]	    | Already up to date.
+[2025-11-17 22:24:41.865]	    | Already up to date.
+[2025-11-17 22:24:41.877]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-17 22:24:42.919]	Done.
+
+[2025-11-18 16:02:21.713]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-18 16:02:21.727]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-18 16:02:22.906]	Already installed "tmux-cpu"
+[2025-11-18 16:02:22.917]	Already installed "tmux-copycat"
+[2025-11-18 16:02:22.930]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-18 16:02:24.529]	Updating all plugins!
+[2025-11-18 16:02:24.541]	
+[2025-11-18 16:02:25.905]	  "tmux-copycat" update success
+[2025-11-18 16:02:25.959]	    | Already up to date.
+[2025-11-18 16:02:26.052]	  "tmux-cpu" update success
+[2025-11-18 16:02:26.091]	    | Already up to date.
+[2025-11-18 16:02:26.105]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-18 16:02:27.158]	Done.
+
+[2025-11-20 22:52:45.208]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-20 22:52:45.223]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-20 22:52:46.682]	Already installed "tmux-copycat"
+[2025-11-20 22:52:46.694]	Already installed "tmux-cpu"
+[2025-11-20 22:52:46.706]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-20 22:52:47.451]	Updating all plugins!
+[2025-11-20 22:52:47.462]	
+[2025-11-20 22:52:48.761]	  "tmux-cpu" update success
+[2025-11-20 22:52:48.774]	  "tmux-copycat" update success
+[2025-11-20 22:52:48.797]	    | Already up to date.
+[2025-11-20 22:52:48.809]	    | Already up to date.
+[2025-11-20 22:52:48.822]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-20 22:52:49.858]	Done.
+
+[2025-11-24 13:31:50.035]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-24 13:31:50.049]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-24 13:31:50.993]	Already installed "tmux-cpu"
+[2025-11-24 13:31:51.005]	Already installed "tmux-copycat"
+[2025-11-24 13:31:51.021]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-24 13:31:51.828]	Updating all plugins!
+[2025-11-24 13:31:51.840]	
+[2025-11-24 13:31:53.389]	  "tmux-copycat" update success
+[2025-11-24 13:31:53.402]	  "tmux-cpu" update success
+[2025-11-24 13:31:53.434]	    | Already up to date.
+[2025-11-24 13:31:53.446]	    | Already up to date.
+[2025-11-24 13:31:53.459]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-24 13:31:54.584]	Done.
+
+[2025-11-24 22:32:33.965]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-24 22:32:33.978]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-24 22:32:35.060]	Already installed "tmux-copycat"
+[2025-11-24 22:32:35.074]	Already installed "tmux-cpu"
+[2025-11-24 22:32:35.089]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-24 22:32:35.867]	Updating all plugins!
+[2025-11-24 22:32:35.880]	
+[2025-11-24 22:32:37.254]	  "tmux-copycat" update success
+[2025-11-24 22:32:37.266]	  "tmux-cpu" update success
+[2025-11-24 22:32:37.298]	    | Already up to date.
+[2025-11-24 22:32:37.310]	    | Already up to date.
+[2025-11-24 22:32:37.322]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-24 22:32:38.448]	Done.
+
+[2025-11-27 14:44:05.753]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-27 14:44:05.765]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-27 14:44:06.943]	Already installed "tmux-copycat"
+[2025-11-27 14:44:06.954]	Already installed "tmux-cpu"
+[2025-11-27 14:44:06.966]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-27 14:44:07.824]	Updating all plugins!
+[2025-11-27 14:44:07.836]	
+[2025-11-27 14:44:09.209]	  "tmux-copycat" update success
+[2025-11-27 14:44:09.262]	    | Already up to date.
+[2025-11-27 14:44:09.274]	  "tmux-cpu" update success
+[2025-11-27 14:44:09.309]	    | Already up to date.
+[2025-11-27 14:44:09.324]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-27 14:44:10.379]	Done.
+
+[2025-11-28 14:14:23.550]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-11-28 14:14:23.564]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-11-28 14:14:24.742]	Already installed "tmux-copycat"
+[2025-11-28 14:14:24.755]	Already installed "tmux-cpu"
+[2025-11-28 14:14:24.769]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-11-28 14:14:25.627]	Updating all plugins!
+[2025-11-28 14:14:25.640]	
+[2025-11-28 14:14:27.060]	  "tmux-copycat" update success
+[2025-11-28 14:14:27.093]	  "tmux-cpu" update success
+[2025-11-28 14:14:27.115]	    | Already up to date.
+[2025-11-28 14:14:27.154]	    | Already up to date.
+[2025-11-28 14:14:27.169]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-11-28 14:14:28.199]	Done.
+
+[2025-12-01 07:45:09.604]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-01 07:45:09.616]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-01 07:45:10.686]	Already installed "tmux-copycat"
+[2025-12-01 07:45:10.698]	Already installed "tmux-cpu"
+[2025-12-01 07:45:10.710]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-01 07:45:11.502]	Updating all plugins!
+[2025-12-01 07:45:11.515]	
+[2025-12-01 07:45:12.867]	  "tmux-copycat" update success
+[2025-12-01 07:45:12.907]	    | Already up to date.
+[2025-12-01 07:45:12.920]	  "tmux-cpu" update success
+[2025-12-01 07:45:12.952]	    | Already up to date.
+[2025-12-01 07:45:12.964]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-01 07:45:13.908]	Done.
+
+[2025-12-03 15:06:13.419]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-03 15:06:13.460]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-03 15:06:15.933]	Already installed "tmux-cpu"
+[2025-12-03 15:06:15.995]	Already installed "tmux-copycat"
+[2025-12-03 15:06:16.022]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-03 15:06:17.423]	Updating all plugins!
+[2025-12-03 15:06:17.455]	
+[2025-12-03 15:06:21.062]	  "tmux-copycat" update success
+[2025-12-03 15:06:21.229]	    | Already up to date.
+[2025-12-03 15:06:21.261]	  "tmux-cpu" update success
+[2025-12-03 15:06:21.452]	    | Already up to date.
+[2025-12-03 15:06:21.504]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-03 15:06:25.853]	Done.
+
+[2025-12-03 21:00:20.979]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-03 21:00:20.992]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-03 21:00:22.010]	Already installed "tmux-cpu"
+[2025-12-03 21:00:22.023]	Already installed "tmux-copycat"
+[2025-12-03 21:00:22.036]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-03 21:00:23.040]	Updating all plugins!
+[2025-12-03 21:00:23.055]	
+[2025-12-03 21:00:24.409]	  "tmux-copycat" update success
+[2025-12-03 21:00:24.460]	    | Already up to date.
+[2025-12-03 21:00:24.473]	  "tmux-cpu" update success
+[2025-12-03 21:00:24.521]	    | Already up to date.
+[2025-12-03 21:00:24.537]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-03 21:00:25.766]	Done.
+
+[2025-12-07 00:50:17.841]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-07 00:50:17.855]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-07 00:50:18.711]	Already installed "tmux-copycat"
+[2025-12-07 00:50:18.722]	Already installed "tmux-cpu"
+[2025-12-07 00:50:18.733]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-07 00:50:19.243]	Updating all plugins!
+[2025-12-07 00:50:19.255]	
+[2025-12-07 00:50:20.651]	  "tmux-cpu" update success
+[2025-12-07 00:50:20.663]	  "tmux-copycat" update success
+[2025-12-07 00:50:20.698]	    | Already up to date.
+[2025-12-07 00:50:20.710]	    | Already up to date.
+[2025-12-07 00:50:20.722]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-07 00:50:21.866]	Done.
+
+[2025-12-08 16:03:10.823]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-08 16:03:10.840]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-08 16:03:14.014]	Already installed "tmux-cpu"
+[2025-12-08 16:03:14.027]	Already installed "tmux-copycat"
+[2025-12-08 16:03:14.040]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-08 16:03:14.937]	Updating all plugins!
+[2025-12-08 16:03:14.949]	
+[2025-12-08 16:03:16.801]	  "tmux-copycat" update success
+[2025-12-08 16:03:16.861]	    | Already up to date.
+[2025-12-08 16:03:17.199]	  "tmux-cpu" update success
+[2025-12-08 16:03:17.245]	    | Already up to date.
+[2025-12-08 16:03:17.257]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-08 16:03:18.434]	Done.
+
+[2025-12-09 12:10:13.377]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-09 12:10:13.389]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-09 12:10:14.722]	Already installed "tmux-cpu"
+[2025-12-09 12:10:14.736]	Already installed "tmux-copycat"
+[2025-12-09 12:10:14.751]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-09 12:10:16.211]	Updating all plugins!
+[2025-12-09 12:10:16.223]	
+[2025-12-09 12:10:17.743]	  "tmux-copycat" update success
+[2025-12-09 12:10:17.786]	    | Already up to date.
+[2025-12-09 12:10:17.817]	  "tmux-cpu" update success
+[2025-12-09 12:10:17.859]	    | Already up to date.
+[2025-12-09 12:10:17.871]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-09 12:10:18.829]	Done.
+
+[2025-12-12 16:26:58.233]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-12 16:26:58.248]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-12 16:26:59.689]	Already installed "tmux-cpu"
+[2025-12-12 16:26:59.700]	Already installed "tmux-copycat"
+[2025-12-12 16:26:59.713]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-12 16:27:00.841]	Updating all plugins!
+[2025-12-12 16:27:00.853]	
+[2025-12-12 16:27:02.230]	  "tmux-cpu" update success
+[2025-12-12 16:27:02.242]	  "tmux-copycat" update success
+[2025-12-12 16:27:02.276]	    | Already up to date.
+[2025-12-12 16:27:02.287]	    | Already up to date.
+[2025-12-12 16:27:02.300]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-12 16:27:03.849]	Done.
+
+[2025-12-18 14:04:41.975]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-18 14:04:41.987]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-18 14:04:43.648]	Already installed "tmux-copycat"
+[2025-12-18 14:04:43.660]	Already installed "tmux-cpu"
+[2025-12-18 14:04:43.675]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-18 14:04:45.187]	Updating all plugins!
+[2025-12-18 14:04:45.198]	
+[2025-12-18 14:04:46.798]	  "tmux-copycat" update success
+[2025-12-18 14:04:46.831]	  "tmux-cpu" update success
+[2025-12-18 14:04:46.844]	    | Already up to date.
+[2025-12-18 14:04:46.870]	    | Already up to date.
+[2025-12-18 14:04:46.885]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-18 14:04:48.771]	Done.
+
+[2025-12-20 02:04:02.504]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-20 02:04:02.518]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-20 02:04:03.730]	Already installed "tmux-cpu"
+[2025-12-20 02:04:03.742]	Already installed "tmux-copycat"
+[2025-12-20 02:04:03.756]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-20 02:04:04.733]	Updating all plugins!
+[2025-12-20 02:04:04.747]	
+[2025-12-20 02:04:06.082]	  "tmux-copycat" update success
+[2025-12-20 02:04:06.124]	    | Already up to date.
+[2025-12-20 02:04:06.136]	  "tmux-cpu" update success
+[2025-12-20 02:04:06.170]	    | Already up to date.
+[2025-12-20 02:04:06.182]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-20 02:04:07.172]	Done.
+
+[2025-12-21 13:56:52.868]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-21 13:56:52.882]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 13:56:54.002]	Already installed "tmux-cpu"
+[2025-12-21 13:56:54.014]	Already installed "tmux-copycat"
+[2025-12-21 13:56:54.027]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 13:56:54.789]	Updating all plugins!
+[2025-12-21 13:56:54.801]	
+[2025-12-21 13:56:56.276]	  "tmux-cpu" update success
+[2025-12-21 13:56:56.289]	  "tmux-copycat" update success
+[2025-12-21 13:56:56.320]	    | Already up to date.
+[2025-12-21 13:56:56.332]	    | Already up to date.
+[2025-12-21 13:56:56.347]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 13:56:57.291]	Done.
+
+[2025-12-21 14:33:52.470]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-21 14:33:52.482]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-21 14:33:53.588]	Already installed "tmux-cpu"
+[2025-12-21 14:33:53.598]	Already installed "tmux-copycat"
+[2025-12-21 14:33:53.610]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-21 14:33:54.507]	Updating all plugins!
+[2025-12-21 14:33:54.519]	
+[2025-12-21 14:33:55.966]	  "tmux-copycat" update success
+[2025-12-21 14:33:55.985]	  "tmux-cpu" update success
+[2025-12-21 14:33:56.004]	    | Already up to date.
+[2025-12-21 14:33:56.021]	    | Already up to date.
+[2025-12-21 14:33:56.034]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-21 14:33:57.034]	Done.
+
+[2025-12-23 22:28:48.306]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-23 22:28:48.319]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-23 22:28:49.398]	Already installed "tmux-cpu"
+[2025-12-23 22:28:49.411]	Already installed "tmux-copycat"
+[2025-12-23 22:28:49.426]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-23 22:28:50.348]	Updating all plugins!
+[2025-12-23 22:28:50.359]	
+[2025-12-23 22:28:51.616]	  "tmux-copycat" update success
+[2025-12-23 22:28:51.657]	    | Already up to date.
+[2025-12-23 22:28:51.669]	  "tmux-cpu" update success
+[2025-12-23 22:28:51.691]	    | Already up to date.
+[2025-12-23 22:28:51.704]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-23 22:28:52.581]	Done.
+
+[2025-12-24 15:37:49.067]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-24 15:37:49.078]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-24 15:37:49.888]	Already installed "tmux-cpu"
+[2025-12-24 15:37:49.899]	Already installed "tmux-copycat"
+[2025-12-24 15:37:49.910]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-24 15:37:50.840]	Updating all plugins!
+[2025-12-24 15:37:50.851]	
+[2025-12-24 15:37:52.193]	  "tmux-cpu" update success
+[2025-12-24 15:37:52.205]	  "tmux-copycat" update success
+[2025-12-24 15:37:52.236]	    | Already up to date.
+[2025-12-24 15:37:52.250]	    | Already up to date.
+[2025-12-24 15:37:52.262]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-24 15:37:53.360]	Done.
+
+[2025-12-25 00:45:04.170]	List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu
+[2025-12-25 00:45:04.184]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-12-25 00:45:05.237]	Already installed "tmux-copycat"
+[2025-12-25 00:45:05.248]	Already installed "tmux-cpu"
+[2025-12-25 00:45:05.259]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-12-25 00:45:06.096]	Updating all plugins!
+[2025-12-25 00:45:06.108]	
+[2025-12-25 00:45:07.437]	  "tmux-copycat" update success
+[2025-12-25 00:45:07.458]	  "tmux-cpu" update success
+[2025-12-25 00:45:07.482]	    | Already up to date.
+[2025-12-25 00:45:07.501]	    | Already up to date.
+[2025-12-25 00:45:07.515]	Invoking /Users/aleph/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-12-25 00:45:08.417]	Done.
+
